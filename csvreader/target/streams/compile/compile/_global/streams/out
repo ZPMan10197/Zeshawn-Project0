@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/CSVReader.scala:12:11: reassignment to val[0m
-[0m[[0m[31merror[0m] [0m[0m    happy = happy + 1[0m
-[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/CSVReader.scala:19:5: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  pw.close()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

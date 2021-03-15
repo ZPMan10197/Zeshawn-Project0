@@ -1,1245 +1,406 @@
-Exports|2020|United States|All|3000000 
-Exports|2020|United States|All|39000000 
-Exports|2020|United States|All|73000000 
-Exports|2020|United States|All|77000000 
-Exports|2020|United States|All|78000000 
-Exports|2020|United States|All|81000000 
-Exports|2020|United States|All|83000000 
-Exports|2020|United States|All|90000000 
-Exports|2020|United States|All|106000000 
-Exports|2020|United States|All|124000000 
-Exports|2020|United States|All|126000000 
-Exports|2020|United States|All|128000000 
-Exports|2020|United States|All|133000000 
-Exports|2020|United States|All|138000000 
-Exports|2020|United States|All|160000000 
-Exports|2020|United States|All|196000000 
-Exports|2020|United States|All|233000000 
-Exports|2020|United States|All|240000000 
-Exports|2020|United States|All|254000000 
-Exports|2020|United States|All|262000000 
-Exports|2020|United States|All|266000000 
-Exports|2020|United States|All|278000000 
-Exports|2020|United States|All|304000000 
-Exports|2020|United States|All|339000000 
-Exports|2020|United States|All|365000000 
-Exports|2020|United States|All|369000000 
-Exports|2020|United States|All|381000000 
-Exports|2020|United States|All|385000000 
-Exports|2020|United States|All|396000000 
-Exports|2020|United States|All|448000000 
-Exports|2020|United States|All|484000000 
-Exports|2020|United States|All|496000000 
-Exports|2020|United States|All|498000000 
-Exports|2020|United States|All|506000000 
-Exports|2020|United States|All|510000000 
-Exports|2020|United States|All|517000000 
-Exports|2020|United States|All|572000000 
-Exports|2020|United States|All|599000000 
-Exports|2020|United States|All|604000000 
-Exports|2020|United States|All|605000000 
-Exports|2020|United States|All|614000000 
-Exports|2020|United States|All|623000000 
-Exports|2020|United States|All|634000000 
-Exports|2020|United States|All|680000000 
-Exports|2020|United States|All|717000000 
-Exports|2020|United States|All|744000000 
-Exports|2020|United States|All|752000000 
-Exports|2020|United States|All|768000000 
-Exports|2020|United States|All|773000000 
-Exports|2020|United States|All|791000000 
-Exports|2020|United States|All|823000000 
-Exports|2020|United States|All|855000000 
-Exports|2020|United States|All|865000000 
-Exports|2020|United States|All|866000000 
-Exports|2020|United States|All|876000000 
-Exports|2020|United States|All|881000000 
-Exports|2020|United States|All|896000000 
-Exports|2020|United States|All|947000000 
-Exports|2020|United States|All|1005000000 
-Exports|2020|United States|All|1028000000 
-Exports|2020|United States|All|1030000000 
-Exports|2020|United States|All|1041000000 
-Exports|2020|United States|All|1045000000 
-Exports|2020|United States|All|1057000000 
-Exports|2020|United States|All|1096000000 
-Exports|2020|United States|All|1139000000 
-Exports|2020|United States|All|1156000000 
-Exports|2020|United States|All|1161000000 
-Exports|2020|United States|All|1174000000 
-Exports|2020|United States|All|1182000000 
-Exports|2020|United States|All|1201000000 
-Exports|2020|United States|All|1243000000 
-Exports|2020|United States|All|1310000000 
-Exports|2020|United States|All|1329000000 
-Exports|2020|United States|All|1334000000 
-Exports|2020|United States|All|1343000000 
-Exports|2020|United States|All|1347000000 
-Exports|2020|United States|All|1358000000 
-Exports|2020|United States|All|1422000000 
-Exports|2020|United States|All|1441000000 
-Exports|2020|United States|All|1452000000 
-Exports|2020|United States|All|1457000000 
-Exports|2020|United States|All|1469000000 
-Exports|2020|United States|All|1475000000 
-Exports|2020|United States|All|1492000000 
-Exports|2020|United States|All|1543000000 
-Exports|2020|United States|All|1611000000 
-Exports|2020|United States|All|1633000000 
-Exports|2020|United States|All|1638000000 
-Exports|2020|United States|All|1646000000 
-Exports|2020|United States|All|1650000000 
-Exports|2020|United States|All|1659000000 
-Exports|2020|United States|All|1695000000 
-Exports|2020|United States|All|1747000000 
-Exports|2020|United States|All|1759000000 
-Exports|2020|United States|All|1762000000 
-Exports|2020|United States|All|1770000000 
-Exports|2020|United States|All|1778000000 
-Exports|2020|United States|All|1816000000 
-Exports|2020|United States|All|1867000000 
-Exports|2020|United States|All|1923000000 
-Exports|2020|United States|All|1935000000 
-Exports|2020|United States|All|1939000000 
-Exports|2020|United States|All|1946000000 
-Exports|2020|United States|All|1950000000 
-Exports|2020|United States|All|1973000000 
-Exports|2020|United States|All|2003000000 
-Exports|2020|United States|All|2039000000 
-Exports|2020|United States|All|2044000000 
-Exports|2020|United States|All|2046000000 
-Exports|2020|United States|All|2053000000 
-Exports|2020|United States|All|2055000000 
-Exports|2020|United States|All|2077000000 
-Exports|2020|United States|All|2116000000 
-Exports|2020|United States|All|2148000000 
-Exports|2020|United States|All|2161000000 
-Exports|2020|United States|All|2162000000 
-Exports|2020|United States|All|2164000000 
-Exports|2020|United States|All|2166000000 
-Exports|2020|United States|All|2184000000 
-Exports|2020|United States|All|2209000000 
-Exports|2020|United States|All|2248000000 
-Exports|2020|United States|All|2255000000 
-Exports|2020|United States|All|2257000000 
-Exports|2020|United States|All|2264000000 
-Exports|2020|United States|All|2268000000 
-Exports|2020|United States|All|2283000000 
-Exports|2020|United States|All|2319000000 
-Exports|2020|United States|All|2349000000 
-Exports|2020|United States|All|2358000000 
-Exports|2020|United States|All|2365000000 
-Exports|2020|United States|All|2371000000 
-Exports|2020|United States|All|2380000000 
-Exports|2020|United States|All|2403000000 
-Exports|2020|United States|All|2430000000 
-Exports|2020|United States|All|2466000000 
-Exports|2020|United States|All|2469000000 
-Exports|2020|United States|All|2472000000 
-Exports|2020|United States|All|2482000000 
-Exports|2020|United States|All|2489000000 
-Exports|2020|United States|All|2506000000 
-Exports|2020|United States|All|2537000000 
-Exports|2020|United States|All|2593000000 
-Exports|2020|United States|All|2605000000 
-Exports|2020|United States|All|2606000000 
-Exports|2020|United States|All|2625000000 
-Exports|2020|United States|All|2632000000 
-Exports|2020|United States|All|2658000000 
-Exports|2020|United States|All|2713000000 
-Exports|2020|United States|All|2745000000 
-Exports|2020|United States|All|2750000000 
-Exports|2020|United States|All|2752000000 
-Exports|2020|United States|All|2754000000 
-Exports|2020|United States|All|2762000000 
-Exports|2020|United States|All|2782000000 
-Exports|2020|United States|All|2804000000 
-Exports|2020|United States|All|2833000000 
-Exports|2020|United States|All|2843000000 
-Exports|2020|United States|All|2884000000 
-Exports|2020|United States|All|2898000000 
-Exports|2020|United States|All|2912000000 
-Exports|2020|United States|All|2933000000 
-Exports|2020|United States|All|2957000000 
-Exports|2020|United States|All|3001000000 
-Exports|2020|United States|All|3007000000 
-Exports|2020|United States|All|3036000000 
-Exports|2020|United States|All|3040000000 
-Exports|2020|United States|All|3047000000 
-Exports|2020|United States|All|3064000000 
-Exports|2020|United States|All|3085000000 
-Exports|2020|United States|All|3110000000 
-Exports|2020|United States|All|3116000000 
-Exports|2020|United States|All|3153000000 
-Exports|2020|United States|All|3160000000 
-Exports|2020|United States|All|3175000000 
-Exports|2020|United States|All|3181000000 
-Exports|2020|United States|All|3227000000 
-Exports|2020|United States|All|3270000000 
-Exports|2020|United States|All|3274000000 
-Exports|2020|United States|All|3321000000 
-Exports|2020|United States|All|3328000000 
-Exports|2020|United States|All|3339000000 
-Exports|2020|United States|All|3357000000 
-Exports|2020|United States|All|3383000000 
-Exports|2020|United States|All|3425000000 
-Exports|2020|United States|All|3431000000 
-Exports|2020|United States|All|3465000000 
-Exports|2020|United States|All|3475000000 
-Exports|2020|United States|All|3482000000 
-Exports|2020|United States|All|3506000000 
-Exports|2020|United States|All|3547000000 
-Exports|2020|United States|All|3587000000 
-Exports|2020|United States|All|3597000000 
-Exports|2020|United States|All|3599000000 
-Exports|2020|United States|All|3609000000 
-Exports|2020|United States|All|3615000000 
-Exports|2020|United States|All|3637000000 
-Exports|2020|United States|All|3658000000 
-Exports|2020|United States|All|3663000000 
-Exports|2020|United States|All|3670000000 
-Exports|2020|United States|All|3672000000 
-Exports|2020|United States|All|3682000000 
-Exports|2020|United States|All|3687000000 
-Exports|2020|United States|All|3814000000 
-Exports|2020|United States|All|3848000000 
-Exports|2020|United States|All|3892000000 
-Exports|2020|United States|All|3901000000 
-Exports|2020|United States|All|3902000000 
-Exports|2020|United States|All|3908000000 
-Exports|2020|United States|All|3912000000 
-Exports|2020|United States|All|3924000000 
-Exports|2020|United States|All|3962000000 
-Exports|2020|United States|All|3988000000 
-Exports|2020|United States|All|3999000000 
-Exports|2020|United States|All|4008000000 
-Exports|2020|United States|All|4020000000 
-Exports|2020|United States|All|4027000000 
-Exports|2020|United States|All|4155000000 
-Exports|2020|United States|All|4183000000 
-Exports|2020|United States|All|4224000000 
-Exports|2020|United States|All|4226000000 
-Exports|2020|United States|All|4232000000 
-Exports|2020|United States|All|4241000000 
-Exports|2020|United States|All|4246000000 
-Exports|2020|United States|All|4352000000 
-Exports|2020|United States|All|4377000000 
-Exports|2020|United States|All|4397000000 
-Exports|2020|United States|All|4401000000 
-Exports|2020|United States|All|4404000000 
-Exports|2020|United States|All|4409000000 
-Exports|2020|United States|All|4422000000 
-Exports|2020|United States|All|4446000000 
-Exports|2020|United States|All|4467000000 
-Exports|2020|United States|All|4493000000 
-Exports|2020|United States|All|4508000000 
-Exports|2020|United States|All|4517000000 
-Exports|2020|United States|All|4523000000 
-Exports|2020|United States|All|4535000000 
-Exports|2020|United States|All|4544000000 
-Exports|2020|United States|All|4563000000 
-Exports|2020|United States|All|4586000000 
-Exports|2020|United States|All|4593000000 
-Exports|2020|United States|All|4604000000 
-Exports|2020|United States|All|4617000000 
-Exports|2020|United States|All|4639000000 
-Exports|2020|United States|All|4654000000 
-Exports|2020|United States|All|4687000000 
-Exports|2020|United States|All|4723000000 
-Exports|2020|United States|All|4727000000 
-Exports|2020|United States|All|4733000000 
-Exports|2020|United States|All|4739000000 
-Exports|2020|United States|All|4746000000 
-Exports|2020|United States|All|4755000000 
-Exports|2020|United States|All|4777000000 
-Exports|2020|United States|All|4801000000 
-Exports|2020|United States|All|4807000000 
-Exports|2020|United States|All|4810000000 
-Exports|2020|United States|All|4827000000 
-Exports|2020|United States|All|4832000000 
-Exports|2020|United States|All|4885000000 
-Exports|2020|United States|All|4913000000 
-Exports|2020|United States|All|4926000000 
-Exports|2020|United States|All|4936000000 
-Exports|2020|United States|All|4938000000 
-Exports|2020|United States|All|4943000000 
-Exports|2020|United States|All|4961000000 
-Exports|2020|United States|All|4964000000 
-Exports|2020|United States|All|4972000000 
-Exports|2020|United States|All|4988000000 
-Exports|2020|United States|All|5000000000 
-Exports|2020|United States|All|5006000000 
-Exports|2020|United States|All|5024000000 
-Exports|2020|United States|All|5044000000 
-Exports|2020|United States|All|5088000000 
-Exports|2020|United States|All|5104000000 
-Exports|2020|United States|All|5118000000 
-Exports|2020|United States|All|5142000000 
-Exports|2020|United States|All|5150000000 
-Exports|2020|United States|All|5159000000 
-Exports|2020|United States|All|5166000000 
-Exports|2020|United States|All|5171000000 
-Exports|2020|United States|All|5184000000 
-Exports|2020|United States|All|5200000000 
-Exports|2020|United States|All|5212000000 
-Exports|2020|United States|All|5222000000 
-Exports|2020|United States|All|5233000000 
-Exports|2020|United States|All|5241000000 
-Exports|2020|United States|All|5283000000 
-Exports|2020|United States|All|5328000000 
-Exports|2020|United States|All|5348000000 
-Exports|2020|United States|All|5370000000 
-Exports|2020|United States|All|5379000000 
-Exports|2020|United States|All|5388000000 
-Exports|2020|United States|All|5394000000 
-Exports|2020|United States|All|5418000000 
-Exports|2020|United States|All|5431000000 
-Exports|2020|United States|All|5447000000 
-Exports|2020|United States|All|5451000000 
-Exports|2020|United States|All|5467000000 
-Exports|2020|United States|All|5476000000 
-Exports|2020|United States|All|5506000000 
-Exports|2020|United States|All|5518000000 
-Exports|2020|United States|All|5531000000 
-Exports|2020|United States|All|5544000000 
-Exports|2020|United States|All|5562000000 
-Exports|2020|United States|All|5583000000 
-Exports|2020|United States|All|5595000000 
-Exports|2020|United States|All|5602000000 
-Exports|2020|United States|All|5618000000 
-Exports|2020|United States|All|5654000000 
-Exports|2020|United States|All|5664000000 
-Exports|2020|United States|All|5681000000 
-Exports|2020|United States|All|5687000000 
-Exports|2020|United States|All|5691000000 
-Exports|2020|United States|All|5709000000 
-Exports|2020|United States|All|5746000000 
-Exports|2020|United States|All|5765000000 
-Exports|2020|United States|All|5780000000 
-Exports|2020|United States|All|5790000000 
-Exports|2020|United States|All|5811000000 
-Exports|2020|United States|All|5821000000 
-Exports|2020|United States|All|5836000000 
-Exports|2020|United States|All|5877000000 
-Exports|2020|United States|All|5897000000 
-Exports|2020|United States|All|5916000000 
-Exports|2020|United States|All|5933000000 
-Exports|2020|United States|All|5946000000 
-Exports|2020|United States|All|5958000000 
-Exports|2020|United States|All|5967000000 
-Exports|2020|United States|All|5976000000 
-Exports|2020|United States|All|6046000000 
-Exports|2020|United States|All|6059000000 
-Exports|2020|United States|All|6075000000 
-Exports|2020|United States|All|6087000000 
-Exports|2020|United States|All|6093000000 
-Exports|2020|United States|All|6110000000 
-Exports|2020|United States|All|6120000000 
-Exports|2020|United States|All|6140000000 
-Exports|2020|United States|All|6166000000 
-Exports|2020|United States|All|6191000000 
-Exports|2020|United States|All|6197000000 
-Exports|2020|United States|All|6205000000 
-Exports|2020|United States|All|6212000000 
-Exports|2020|United States|All|6229000000 
-Exports|2020|United States|All|6251000000 
-Exports|2020|United States|All|6278000000 
-Exports|2020|United States|All|6285000000 
-Exports|2020|United States|All|6298000000 
-Exports|2020|United States|All|6312000000 
-Exports|2020|United States|All|6330000000 
-Exports|2020|United States|All|6350000000 
-Exports|2020|United States|All|6384000000 
-Exports|2020|United States|All|6412000000 
-Exports|2020|United States|All|6427000000 
-Exports|2020|United States|All|6432000000 
-Exports|2020|United States|All|6449000000 
-Exports|2020|United States|All|6479000000 
-Exports|2020|United States|All|6490000000 
-Exports|2020|United States|All|6518000000 
-Exports|2020|United States|All|6527000000 
-Exports|2020|United States|All|6538000000 
-Exports|2020|United States|All|6549000000 
-Exports|2020|United States|All|6564000000 
-Exports|2020|United States|All|6585000000 
-Exports|2020|United States|All|6625000000 
-Exports|2020|United States|All|6649000000 
-Exports|2020|United States|Meat and edible offal|1000000 
-Exports|2020|United States|Meat and edible offal|5000000 
-Exports|2020|United States|Meat and edible offal|12000000 
-Exports|2020|United States|Meat and edible offal|14000000 
-Exports|2020|United States|Meat and edible offal|15000000 
-Exports|2020|United States|Meat and edible offal|16000000 
-Exports|2020|United States|Meat and edible offal|17000000 
-Exports|2020|United States|Meat and edible offal|22000000 
-Exports|2020|United States|Meat and edible offal|29000000 
-Exports|2020|United States|Meat and edible offal|29000000 
-Exports|2020|United States|Meat and edible offal|29000000 
-Exports|2020|United States|Meat and edible offal|33000000 
-Exports|2020|United States|Meat and edible offal|35000000 
-Exports|2020|United States|Meat and edible offal|36000000 
-Exports|2020|United States|Meat and edible offal|54000000 
-Exports|2020|United States|Meat and edible offal|62000000 
-Exports|2020|United States|Meat and edible offal|65000000 
-Exports|2020|United States|Meat and edible offal|65000000 
-Exports|2020|United States|Meat and edible offal|71000000 
-Exports|2020|United States|Meat and edible offal|72000000 
-Exports|2020|United States|Meat and edible offal|76000000 
-Exports|2020|United States|Meat and edible offal|88000000 
-Exports|2020|United States|Meat and edible offal|96000000 
-Exports|2020|United States|Meat and edible offal|105000000 
-Exports|2020|United States|Meat and edible offal|105000000 
-Exports|2020|United States|Meat and edible offal|112000000 
-Exports|2020|United States|Meat and edible offal|114000000 
-Exports|2020|United States|Meat and edible offal|116000000 
-Exports|2020|United States|Meat and edible offal|134000000 
-Exports|2020|United States|Meat and edible offal|149000000 
-Exports|2020|United States|Meat and edible offal|155000000 
-Exports|2020|United States|Meat and edible offal|155000000 
-Exports|2020|United States|Meat and edible offal|161000000 
-Exports|2020|United States|Meat and edible offal|162000000 
-Exports|2020|United States|Meat and edible offal|163000000 
-Exports|2020|United States|Meat and edible offal|185000000 
-Exports|2020|United States|Meat and edible offal|189000000 
-Exports|2020|United States|Meat and edible offal|193000000 
-Exports|2020|United States|Meat and edible offal|193000000 
-Exports|2020|United States|Meat and edible offal|200000000 
-Exports|2020|United States|Meat and edible offal|203000000 
-Exports|2020|United States|Meat and edible offal|206000000 
-Exports|2020|United States|Meat and edible offal|228000000 
-Exports|2020|United States|Meat and edible offal|239000000 
-Exports|2020|United States|Meat and edible offal|249000000 
-Exports|2020|United States|Meat and edible offal|249000000 
-Exports|2020|United States|Meat and edible offal|262000000 
-Exports|2020|United States|Meat and edible offal|264000000 
-Exports|2020|United States|Meat and edible offal|272000000 
-Exports|2020|United States|Meat and edible offal|287000000 
-Exports|2020|United States|Meat and edible offal|293000000 
-Exports|2020|United States|Meat and edible offal|299000000 
-Exports|2020|United States|Meat and edible offal|299000000 
-Exports|2020|United States|Meat and edible offal|306000000 
-Exports|2020|United States|Meat and edible offal|308000000 
-Exports|2020|United States|Meat and edible offal|311000000 
-Exports|2020|United States|Meat and edible offal|327000000 
-Exports|2020|United States|Meat and edible offal|338000000 
-Exports|2020|United States|Meat and edible offal|352000000 
-Exports|2020|United States|Meat and edible offal|352000000 
-Exports|2020|United States|Meat and edible offal|359000000 
-Exports|2020|United States|Meat and edible offal|360000000 
-Exports|2020|United States|Meat and edible offal|361000000 
-Exports|2020|United States|Meat and edible offal|376000000 
-Exports|2020|United States|Meat and edible offal|387000000 
-Exports|2020|United States|Meat and edible offal|395000000 
-Exports|2020|United States|Meat and edible offal|399000000 
-Exports|2020|United States|Meat and edible offal|408000000 
-Exports|2020|United States|Meat and edible offal|413000000 
-Exports|2020|United States|Meat and edible offal|417000000 
-Exports|2020|United States|Meat and edible offal|428000000 
-Exports|2020|United States|Meat and edible offal|452000000 
-Exports|2020|United States|Meat and edible offal|464000000 
-Exports|2020|United States|Meat and edible offal|465000000 
-Exports|2020|United States|Meat and edible offal|471000000 
-Exports|2020|United States|Meat and edible offal|472000000 
-Exports|2020|United States|Meat and edible offal|474000000 
-Exports|2020|United States|Meat and edible offal|498000000 
-Exports|2020|United States|Meat and edible offal|502000000 
-Exports|2020|United States|Meat and edible offal|509000000 
-Exports|2020|United States|Meat and edible offal|509000000 
-Exports|2020|United States|Meat and edible offal|516000000 
-Exports|2020|United States|Meat and edible offal|517000000 
-Exports|2020|United States|Meat and edible offal|518000000 
-Exports|2020|United States|Meat and edible offal|537000000 
-Exports|2020|United States|Meat and edible offal|549000000 
-Exports|2020|United States|Meat and edible offal|557000000 
-Exports|2020|United States|Meat and edible offal|558000000 
-Exports|2020|United States|Meat and edible offal|563000000 
-Exports|2020|United States|Meat and edible offal|564000000 
-Exports|2020|United States|Meat and edible offal|566000000 
-Exports|2020|United States|Meat and edible offal|579000000 
-Exports|2020|United States|Meat and edible offal|597000000 
-Exports|2020|United States|Meat and edible offal|604000000 
-Exports|2020|United States|Meat and edible offal|610000000 
-Exports|2020|United States|Meat and edible offal|613000000 
-Exports|2020|United States|Meat and edible offal|615000000 
-Exports|2020|United States|Meat and edible offal|630000000 
-Exports|2020|United States|Meat and edible offal|641000000 
-Exports|2020|United States|Meat and edible offal|647000000 
-Exports|2020|United States|Meat and edible offal|647000000 
-Exports|2020|United States|Meat and edible offal|650000000 
-Exports|2020|United States|Meat and edible offal|652000000 
-Exports|2020|United States|Meat and edible offal|655000000 
-Exports|2020|United States|Meat and edible offal|664000000 
-Exports|2020|United States|Meat and edible offal|674000000 
-Exports|2020|United States|Meat and edible offal|677000000 
-Exports|2020|United States|Meat and edible offal|680000000 
-Exports|2020|United States|Meat and edible offal|681000000 
-Exports|2020|United States|Meat and edible offal|685000000 
-Exports|2020|United States|Meat and edible offal|692000000 
-Exports|2020|United States|Meat and edible offal|703000000 
-Exports|2020|United States|Meat and edible offal|706000000 
-Exports|2020|United States|Meat and edible offal|707000000 
-Exports|2020|United States|Meat and edible offal|708000000 
-Exports|2020|United States|Meat and edible offal|710000000 
-Exports|2020|United States|Meat and edible offal|716000000 
-Exports|2020|United States|Meat and edible offal|726000000 
-Exports|2020|United States|Meat and edible offal|729000000 
-Exports|2020|United States|Meat and edible offal|730000000 
-Exports|2020|United States|Meat and edible offal|733000000 
-Exports|2020|United States|Meat and edible offal|735000000 
-Exports|2020|United States|Meat and edible offal|738000000 
-Exports|2020|United States|Meat and edible offal|746000000 
-Exports|2020|United States|Meat and edible offal|756000000 
-Exports|2020|United States|Meat and edible offal|759000000 
-Exports|2020|United States|Meat and edible offal|759000000 
-Exports|2020|United States|Meat and edible offal|762000000 
-Exports|2020|United States|Meat and edible offal|764000000 
-Exports|2020|United States|Meat and edible offal|769000000 
-Exports|2020|United States|Meat and edible offal|779000000 
-Exports|2020|United States|Meat and edible offal|787000000 
-Exports|2020|United States|Meat and edible offal|788000000 
-Exports|2020|United States|Meat and edible offal|793000000 
-Exports|2020|United States|Meat and edible offal|795000000 
-Exports|2020|United States|Meat and edible offal|801000000 
-Exports|2020|United States|Meat and edible offal|813000000 
-Exports|2020|United States|Meat and edible offal|829000000 
-Exports|2020|United States|Meat and edible offal|833000000 
-Exports|2020|United States|Meat and edible offal|833000000 
-Exports|2020|United States|Meat and edible offal|838000000 
-Exports|2020|United States|Meat and edible offal|840000000 
-Exports|2020|United States|Meat and edible offal|845000000 
-Exports|2020|United States|Meat and edible offal|860000000 
-Exports|2020|United States|Meat and edible offal|869000000 
-Exports|2020|United States|Meat and edible offal|869000000 
-Exports|2020|United States|Meat and edible offal|872000000 
-Exports|2020|United States|Meat and edible offal|877000000 
-Exports|2020|United States|Meat and edible offal|888000000 
-Exports|2020|United States|Meat and edible offal|899000000 
-Exports|2020|United States|Meat and edible offal|901000000 
-Exports|2020|United States|Meat and edible offal|913000000 
-Exports|2020|United States|Meat and edible offal|917000000 
-Exports|2020|United States|Meat and edible offal|920000000 
-Exports|2020|United States|Meat and edible offal|926000000 
-Exports|2020|United States|Meat and edible offal|934000000 
-Exports|2020|United States|Meat and edible offal|950000000 
-Exports|2020|United States|Meat and edible offal|952000000 
-Exports|2020|United States|Meat and edible offal|961000000 
-Exports|2020|United States|Meat and edible offal|963000000 
-Exports|2020|United States|Meat and edible offal|965000000 
-Exports|2020|United States|Meat and edible offal|975000000 
-Exports|2020|United States|Meat and edible offal|989000000 
-Exports|2020|United States|Meat and edible offal|999000000 
-Exports|2020|United States|Meat and edible offal|1000000000 
-Exports|2020|United States|Meat and edible offal|1013000000 
-Exports|2020|United States|Meat and edible offal|1016000000 
-Exports|2020|United States|Meat and edible offal|1018000000 
-Exports|2020|United States|Meat and edible offal|1021000000 
-Exports|2020|United States|Meat and edible offal|1046000000 
-Exports|2020|United States|Meat and edible offal|1056000000 
-Exports|2020|United States|Meat and edible offal|1057000000 
-Exports|2020|United States|Meat and edible offal|1068000000 
-Exports|2020|United States|Meat and edible offal|1071000000 
-Exports|2020|United States|Meat and edible offal|1075000000 
-Exports|2020|United States|Meat and edible offal|1084000000 
-Exports|2020|United States|Meat and edible offal|1099000000 
-Exports|2020|United States|Meat and edible offal|1111000000 
-Exports|2020|United States|Meat and edible offal|1113000000 
-Exports|2020|United States|Meat and edible offal|1121000000 
-Exports|2020|United States|Meat and edible offal|1127000000 
-Exports|2020|United States|Meat and edible offal|1128000000 
-Exports|2020|United States|Meat and edible offal|1138000000 
-Exports|2020|United States|Meat and edible offal|1145000000 
-Exports|2020|United States|Meat and edible offal|1158000000 
-Exports|2020|United States|Meat and edible offal|1166000000 
-Exports|2020|United States|Meat and edible offal|1172000000 
-Exports|2020|United States|Meat and edible offal|1173000000 
-Exports|2020|United States|Meat and edible offal|1181000000 
-Exports|2020|United States|Meat and edible offal|1187000000 
-Exports|2020|United States|Meat and edible offal|1188000000 
-Exports|2020|United States|Meat and edible offal|1194000000 
-Exports|2020|United States|Meat and edible offal|1194000000 
-Exports|2020|United States|Meat and edible offal|1200000000 
-Exports|2020|United States|Meat and edible offal|1200000000 
-Exports|2020|United States|Meat and edible offal|1204000000 
-Exports|2020|United States|Meat and edible offal|1210000000 
-Exports|2020|United States|Meat and edible offal|1221000000 
-Exports|2020|United States|Meat and edible offal|1227000000 
-Exports|2020|United States|Meat and edible offal|1230000000 
-Exports|2020|United States|Meat and edible offal|1230000000 
-Exports|2020|United States|Meat and edible offal|1232000000 
-Exports|2020|United States|Meat and edible offal|1241000000 
-Exports|2020|United States|Meat and edible offal|1245000000 
-Exports|2020|United States|Meat and edible offal|1249000000 
-Exports|2020|United States|Meat and edible offal|1253000000 
-Exports|2020|United States|Meat and edible offal|1257000000 
-Exports|2020|United States|Meat and edible offal|1258000000 
-Exports|2020|United States|Meat and edible offal|1261000000 
-Exports|2020|United States|Meat and edible offal|1268000000 
-Exports|2020|United States|Meat and edible offal|1280000000 
-Exports|2020|United States|Meat and edible offal|1281000000 
-Exports|2020|United States|Meat and edible offal|1284000000 
-Exports|2020|United States|Meat and edible offal|1288000000 
-Exports|2020|United States|Meat and edible offal|1289000000 
-Exports|2020|United States|Meat and edible offal|1290000000 
-Exports|2020|United States|Meat and edible offal|1295000000 
-Exports|2020|United States|Meat and edible offal|1300000000 
-Exports|2020|United States|Meat and edible offal|1301000000 
-Exports|2020|United States|Meat and edible offal|1302000000 
-Exports|2020|United States|Meat and edible offal|1302000000 
-Exports|2020|United States|Meat and edible offal|1308000000 
-Exports|2020|United States|Meat and edible offal|1312000000 
-Exports|2020|United States|Meat and edible offal|1316000000 
-Exports|2020|United States|Meat and edible offal|1321000000 
-Exports|2020|United States|Meat and edible offal|1323000000 
-Exports|2020|United States|Meat and edible offal|1324000000 
-Exports|2020|United States|Meat and edible offal|1325000000 
-Exports|2020|United States|Meat and edible offal|1328000000 
-Exports|2020|United States|Meat and edible offal|1330000000 
-Exports|2020|United States|Meat and edible offal|1335000000 
-Exports|2020|United States|Meat and edible offal|1339000000 
-Exports|2020|United States|Meat and edible offal|1343000000 
-Exports|2020|United States|Meat and edible offal|1345000000 
-Exports|2020|United States|Meat and edible offal|1349000000 
-Exports|2020|United States|Meat and edible offal|1353000000 
-Exports|2020|United States|Meat and edible offal|1356000000 
-Exports|2020|United States|Meat and edible offal|1362000000 
-Exports|2020|United States|Meat and edible offal|1367000000 
-Exports|2020|United States|Meat and edible offal|1368000000 
-Exports|2020|United States|Meat and edible offal|1372000000 
-Exports|2020|United States|Meat and edible offal|1372000000 
-Exports|2020|United States|Meat and edible offal|1374000000 
-Exports|2020|United States|Meat and edible offal|1377000000 
-Exports|2020|United States|Meat and edible offal|1381000000 
-Exports|2020|United States|Meat and edible offal|1387000000 
-Exports|2020|United States|Meat and edible offal|1390000000 
-Exports|2020|United States|Meat and edible offal|1391000000 
-Exports|2020|United States|Meat and edible offal|1397000000 
-Exports|2020|United States|Meat and edible offal|1398000000 
-Exports|2020|United States|Meat and edible offal|1402000000 
-Exports|2020|United States|Meat and edible offal|1407000000 
-Exports|2020|United States|Meat and edible offal|1410000000 
-Exports|2020|United States|Meat and edible offal|1411000000 
-Exports|2020|United States|Meat and edible offal|1412000000 
-Exports|2020|United States|Meat and edible offal|1414000000 
-Exports|2020|United States|Meat and edible offal|1418000000 
-Exports|2020|United States|Meat and edible offal|1420000000 
-Exports|2020|United States|Meat and edible offal|1422000000 
-Exports|2020|United States|Meat and edible offal|1425000000 
-Exports|2020|United States|Meat and edible offal|1427000000 
-Exports|2020|United States|Meat and edible offal|1430000000 
-Exports|2020|United States|Meat and edible offal|1435000000 
-Exports|2020|United States|Meat and edible offal|1437000000 
-Exports|2020|United States|Meat and edible offal|1442000000 
-Exports|2020|United States|Meat and edible offal|1444000000 
-Exports|2020|United States|Meat and edible offal|1448000000 
-Exports|2020|United States|Meat and edible offal|1452000000 
-Exports|2020|United States|Meat and edible offal|1454000000 
-Exports|2020|United States|Meat and edible offal|1456000000 
-Exports|2020|United States|Meat and edible offal|1458000000 
-Exports|2020|United States|Meat and edible offal|1459000000 
-Exports|2020|United States|Meat and edible offal|1461000000 
-Exports|2020|United States|Meat and edible offal|1464000000 
-Exports|2020|United States|Meat and edible offal|1467000000 
-Exports|2020|United States|Meat and edible offal|1467000000 
-Exports|2020|United States|Meat and edible offal|1471000000 
-Exports|2020|United States|Meat and edible offal|1472000000 
-Exports|2020|United States|Meat and edible offal|1475000000 
-Exports|2020|United States|Meat and edible offal|1480000000 
-Exports|2020|United States|Meat and edible offal|1485000000 
-Exports|2020|United States|Meat and edible offal|1488000000 
-Exports|2020|United States|Meat and edible offal|1488000000 
-Exports|2020|United States|Meat and edible offal|1491000000 
-Exports|2020|United States|Meat and edible offal|1492000000 
-Exports|2020|United States|Meat and edible offal|1493000000 
-Exports|2020|United States|Meat and edible offal|1495000000 
-Exports|2020|United States|Meat and edible offal|1501000000 
-Exports|2020|United States|Meat and edible offal|1502000000 
-Exports|2020|United States|Meat and edible offal|1506000000 
-Exports|2020|United States|Meat and edible offal|1509000000 
-Exports|2020|United States|Meat and edible offal|1513000000 
-Exports|2020|United States|Meat and edible offal|1514000000 
-Exports|2020|United States|Meat and edible offal|1519000000 
-Exports|2020|United States|Meat and edible offal|1521000000 
-Exports|2020|United States|Meat and edible offal|1525000000 
-Exports|2020|United States|Meat and edible offal|1528000000 
-Exports|2020|United States|Meat and edible offal|1533000000 
-Exports|2020|United States|Meat and edible offal|1535000000 
-Exports|2020|United States|Meat and edible offal|1541000000 
-Exports|2020|United States|Meat and edible offal|1544000000 
-Exports|2020|United States|Meat and edible offal|1545000000 
-Exports|2020|United States|Meat and edible offal|1548000000 
-Exports|2020|United States|Meat and edible offal|1549000000 
-Exports|2020|United States|Meat and edible offal|1550000000 
-Exports|2020|United States|Meat and edible offal|1555000000 
-Exports|2020|United States|Meat and edible offal|1561000000 
-Exports|2020|United States|Meat and edible offal|1565000000 
-Exports|2020|United States|Meat and edible offal|1568000000 
-Exports|2020|United States|Meat and edible offal|1570000000 
-Exports|2020|United States|Meat and edible offal|1575000000 
-Exports|2020|United States|Meat and edible offal|1580000000 
-Exports|2020|United States|Meat and edible offal|1585000000 
-Exports|2020|United States|Meat and edible offal|1589000000 
-Exports|2020|United States|Meat and edible offal|1595000000 
-Exports|2020|United States|Meat and edible offal|1602000000 
-Exports|2020|United States|Meat and edible offal|1604000000 
-Exports|2020|United States|Meat and edible offal|1607000000 
-Exports|2020|United States|Meat and edible offal|1610000000 
-Exports|2020|United States|Meat and edible offal|1614000000 
-Exports|2020|United States|Meat and edible offal|1616000000 
-Exports|2020|United States|Meat and edible offal|1619000000 
-Exports|2020|United States|Meat and edible offal|1621000000 
-Exports|2020|United States|Meat and edible offal|1626000000 
-Exports|2020|United States|Meat and edible offal|1628000000 
-Exports|2020|United States|Meat and edible offal|1630000000 
-Exports|2020|United States|Meat and edible offal|1632000000 
-Exports|2020|United States|Meat and edible offal|1636000000 
-Exports|2020|United States|Meat and edible offal|1641000000 
-Exports|2020|United States|Meat and edible offal|1652000000 
-Exports|2020|United States|Meat and edible offal|1661000000 
-Exports|2020|United States|Meat and edible offal|1662000000 
-Exports|2020|United States|Meat and edible offal|1664000000 
-Exports|2020|United States|Meat and edible offal|1666000000 
-Exports|2020|United States|Meat and edible offal|1669000000 
-Exports|2020|United States|Meat and edible offal|1676000000 
-Exports|2020|United States|Meat and edible offal|1682000000 
-Exports|2020|United States|Meat and edible offal|1683000000 
-Exports|2020|United States|Meat and edible offal|1686000000 
-Exports|2020|United States|Meat and edible offal|1690000000 
-Exports|2020|United States|Meat and edible offal|1694000000 
-Exports|2020|United States|Meat and edible offal|1701000000 
-Exports|2020|United States|Meat and edible offal|1711000000 
-Exports|2020|United States|Meat and edible offal|1717000000 
-Exports|2020|United States|Meat and edible offal|1721000000 
-Exports|2020|United States|Meat and edible offal|1722000000 
-Exports|2020|United States|Meat and edible offal|1728000000 
-Exports|2020|United States|Meat and edible offal|1735000000 
-Exports|2020|United States|Meat and edible offal|1738000000 
-Exports|2020|United States|Meat and edible offal|1742000000 
-Exports|2020|United States|Meat and edible offal|1743000000 
-Exports|2020|United States|Meat and edible offal|1745000000 
-Exports|2020|United States|Meat and edible offal|1750000000 
-Exports|2020|United States|Meat and edible offal|1757000000 
-Exports|2020|United States|Meat and edible offal|1762000000 
-Exports|2020|United States|Meat and edible offal|1765000000 
-Exports|2020|United States|Meat and edible offal|1771000000 
-Exports|2020|United States|Meat and edible offal|0 
-Exports|2020|United States|Meat and edible offal|0 
-Exports|2020|United States|Meat and edible offal|1000 
-Exports|2020|United States|Meat and edible offal|1000 
-Exports|2020|United States|Meat and edible offal|1000 
-Exports|2020|United States|Meat and edible offal|2000 
-Exports|2020|United States|Meat and edible offal|2000 
-Exports|2020|United States|Meat and edible offal|2000 
-Exports|2020|United States|Meat and edible offal|3000 
-Exports|2020|United States|Meat and edible offal|3000 
-Exports|2020|United States|Meat and edible offal|3000 
-Exports|2020|United States|Meat and edible offal|3000 
-Exports|2020|United States|Meat and edible offal|3000 
-Exports|2020|United States|Meat and edible offal|4000 
-Exports|2020|United States|Meat and edible offal|5000 
-Exports|2020|United States|Meat and edible offal|6000 
-Exports|2020|United States|Meat and edible offal|7000 
-Exports|2020|United States|Meat and edible offal|7000 
-Exports|2020|United States|Meat and edible offal|7000 
-Exports|2020|United States|Meat and edible offal|7000 
-Exports|2020|United States|Meat and edible offal|8000 
-Exports|2020|United States|Meat and edible offal|9000 
-Exports|2020|United States|Meat and edible offal|10000 
-Exports|2020|United States|Meat and edible offal|11000 
-Exports|2020|United States|Meat and edible offal|11000 
-Exports|2020|United States|Meat and edible offal|12000 
-Exports|2020|United States|Meat and edible offal|12000 
-Exports|2020|United States|Meat and edible offal|12000 
-Exports|2020|United States|Meat and edible offal|14000 
-Exports|2020|United States|Meat and edible offal|16000 
-Exports|2020|United States|Meat and edible offal|17000 
-Exports|2020|United States|Meat and edible offal|17000 
-Exports|2020|United States|Meat and edible offal|17000 
-Exports|2020|United States|Meat and edible offal|18000 
-Exports|2020|United States|Meat and edible offal|18000 
-Exports|2020|United States|Meat and edible offal|20000 
-Exports|2020|United States|Meat and edible offal|21000 
-Exports|2020|United States|Meat and edible offal|21000 
-Exports|2020|United States|Meat and edible offal|21000 
-Exports|2020|United States|Meat and edible offal|22000 
-Exports|2020|United States|Meat and edible offal|22000 
-Exports|2020|United States|Meat and edible offal|23000 
-Exports|2020|United States|Meat and edible offal|25000 
-Exports|2020|United States|Meat and edible offal|26000 
-Exports|2020|United States|Meat and edible offal|28000 
-Exports|2020|United States|Meat and edible offal|28000 
-Exports|2020|United States|Meat and edible offal|29000 
-Exports|2020|United States|Meat and edible offal|29000 
-Exports|2020|United States|Meat and edible offal|30000 
-Exports|2020|United States|Meat and edible offal|32000 
-Exports|2020|United States|Meat and edible offal|33000 
-Exports|2020|United States|Meat and edible offal|33000 
-Exports|2020|United States|Meat and edible offal|33000 
-Exports|2020|United States|Meat and edible offal|34000 
-Exports|2020|United States|Meat and edible offal|34000 
-Exports|2020|United States|Meat and edible offal|35000 
-Exports|2020|United States|Meat and edible offal|36000 
-Exports|2020|United States|Meat and edible offal|38000 
-Exports|2020|United States|Meat and edible offal|39000 
-Exports|2020|United States|Meat and edible offal|39000 
-Exports|2020|United States|Meat and edible offal|40000 
-Exports|2020|United States|Meat and edible offal|40000 
-Exports|2020|United States|Meat and edible offal|41000 
-Exports|2020|United States|Meat and edible offal|42000 
-Exports|2020|United States|Meat and edible offal|44000 
-Exports|2020|United States|Meat and edible offal|44000 
-Exports|2020|United States|Meat and edible offal|45000 
-Exports|2020|United States|Meat and edible offal|45000 
-Exports|2020|United States|Meat and edible offal|46000 
-Exports|2020|United States|Meat and edible offal|47000 
-Exports|2020|United States|Meat and edible offal|48000 
-Exports|2020|United States|Meat and edible offal|51000 
-Exports|2020|United States|Meat and edible offal|52000 
-Exports|2020|United States|Meat and edible offal|53000 
-Exports|2020|United States|Meat and edible offal|53000 
-Exports|2020|United States|Meat and edible offal|53000 
-Exports|2020|United States|Meat and edible offal|54000 
-Exports|2020|United States|Meat and edible offal|56000 
-Exports|2020|United States|Meat and edible offal|57000 
-Exports|2020|United States|Meat and edible offal|57000 
-Exports|2020|United States|Meat and edible offal|57000 
-Exports|2020|United States|Meat and edible offal|58000 
-Exports|2020|United States|Meat and edible offal|58000 
-Exports|2020|United States|Meat and edible offal|58000 
-Exports|2020|United States|Meat and edible offal|61000 
-Exports|2020|United States|Meat and edible offal|62000 
-Exports|2020|United States|Meat and edible offal|63000 
-Exports|2020|United States|Meat and edible offal|63000 
-Exports|2020|United States|Meat and edible offal|64000 
-Exports|2020|United States|Meat and edible offal|64000 
-Exports|2020|United States|Meat and edible offal|64000 
-Exports|2020|United States|Meat and edible offal|66000 
-Exports|2020|United States|Meat and edible offal|68000 
-Exports|2020|United States|Meat and edible offal|69000 
-Exports|2020|United States|Meat and edible offal|69000 
-Exports|2020|United States|Meat and edible offal|70000 
-Exports|2020|United States|Meat and edible offal|70000 
-Exports|2020|United States|Meat and edible offal|72000 
-Exports|2020|United States|Meat and edible offal|73000 
-Exports|2020|United States|Meat and edible offal|74000 
-Exports|2020|United States|Meat and edible offal|74000 
-Exports|2020|United States|Meat and edible offal|74000 
-Exports|2020|United States|Meat and edible offal|74000 
-Exports|2020|United States|Meat and edible offal|75000 
-Exports|2020|United States|Meat and edible offal|76000 
-Exports|2020|United States|Meat and edible offal|77000 
-Exports|2020|United States|Meat and edible offal|77000 
-Exports|2020|United States|Meat and edible offal|78000 
-Exports|2020|United States|Meat and edible offal|78000 
-Exports|2020|United States|Meat and edible offal|78000 
-Exports|2020|United States|Meat and edible offal|79000 
-Exports|2020|United States|Meat and edible offal|80000 
-Exports|2020|United States|Meat and edible offal|81000 
-Exports|2020|United States|Meat and edible offal|81000 
-Exports|2020|United States|Meat and edible offal|81000 
-Exports|2020|United States|Meat and edible offal|81000 
-Exports|2020|United States|Meat and edible offal|82000 
-Exports|2020|United States|Meat and edible offal|83000 
-Exports|2020|United States|Meat and edible offal|83000 
-Exports|2020|United States|Meat and edible offal|83000 
-Exports|2020|United States|Meat and edible offal|84000 
-Exports|2020|United States|Meat and edible offal|84000 
-Exports|2020|United States|Meat and edible offal|85000 
-Exports|2020|United States|Meat and edible offal|86000 
-Exports|2020|United States|Meat and edible offal|87000 
-Exports|2020|United States|Meat and edible offal|87000 
-Exports|2020|United States|Meat and edible offal|87000 
-Exports|2020|United States|Meat and edible offal|87000 
-Exports|2020|United States|Meat and edible offal|88000 
-Exports|2020|United States|Meat and edible offal|88000 
-Exports|2020|United States|Meat and edible offal|90000 
-Exports|2020|United States|Meat and edible offal|91000 
-Exports|2020|United States|Meat and edible offal|91000 
-Exports|2020|United States|Meat and edible offal|91000 
-Exports|2020|United States|Meat and edible offal|91000 
-Exports|2020|United States|Meat and edible offal|92000 
-Exports|2020|United States|Meat and edible offal|94000 
-Exports|2020|United States|Meat and edible offal|96000 
-Exports|2020|United States|Meat and edible offal|96000 
-Exports|2020|United States|Meat and edible offal|96000 
-Exports|2020|United States|Meat and edible offal|97000 
-Exports|2020|United States|Meat and edible offal|97000 
-Exports|2020|United States|Meat and edible offal|98000 
-Exports|2020|United States|Meat and edible offal|99000 
-Exports|2020|United States|Meat and edible offal|100000 
-Exports|2020|United States|Meat and edible offal|100000 
-Exports|2020|United States|Meat and edible offal|101000 
-Exports|2020|United States|Meat and edible offal|101000 
-Exports|2020|United States|Meat and edible offal|103000 
-Exports|2020|United States|Meat and edible offal|104000 
-Exports|2020|United States|Meat and edible offal|104000 
-Exports|2020|United States|Meat and edible offal|106000 
-Exports|2020|United States|Meat and edible offal|106000 
-Exports|2020|United States|Meat and edible offal|107000 
-Exports|2020|United States|Meat and edible offal|107000 
-Exports|2020|United States|Meat and edible offal|108000 
-Exports|2020|United States|Meat and edible offal|110000 
-Exports|2020|United States|Meat and edible offal|110000 
-Exports|2020|United States|Meat and edible offal|112000 
-Exports|2020|United States|Meat and edible offal|112000 
-Exports|2020|United States|Meat and edible offal|112000 
-Exports|2020|United States|Meat and edible offal|113000 
-Exports|2020|United States|Meat and edible offal|115000 
-Exports|2020|United States|Meat and edible offal|116000 
-Exports|2020|United States|Meat and edible offal|116000 
-Exports|2020|United States|Meat and edible offal|118000 
-Exports|2020|United States|Meat and edible offal|118000 
-Exports|2020|United States|Meat and edible offal|119000 
-Exports|2020|United States|Meat and edible offal|119000 
-Exports|2020|United States|Meat and edible offal|122000 
-Exports|2020|United States|Meat and edible offal|123000 
-Exports|2020|United States|Meat and edible offal|123000 
-Exports|2020|United States|Meat and edible offal|124000 
-Exports|2020|United States|Meat and edible offal|125000 
-Exports|2020|United States|Meat and edible offal|125000 
-Exports|2020|United States|Meat and edible offal|126000 
-Exports|2020|United States|Meat and edible offal|128000 
-Exports|2020|United States|Meat and edible offal|129000 
-Exports|2020|United States|Meat and edible offal|130000 
-Exports|2020|United States|Meat and edible offal|131000 
-Exports|2020|United States|Meat and edible offal|131000 
-Exports|2020|United States|Meat and edible offal|132000 
-Exports|2020|United States|Meat and edible offal|133000 
-Exports|2020|United States|Meat and edible offal|134000 
-Exports|2020|United States|Meat and edible offal|135000 
-Exports|2020|United States|Meat and edible offal|136000 
-Exports|2020|United States|Meat and edible offal|137000 
-Exports|2020|United States|Meat and edible offal|137000 
-Exports|2020|United States|Meat and edible offal|138000 
-Exports|2020|United States|Meat and edible offal|139000 
-Exports|2020|United States|Meat and edible offal|139000 
-Exports|2020|United States|Meat and edible offal|140000 
-Exports|2020|United States|Meat and edible offal|140000 
-Exports|2020|United States|Meat and edible offal|141000 
-Exports|2020|United States|Meat and edible offal|141000 
-Exports|2020|United States|Meat and edible offal|141000 
-Exports|2020|United States|Meat and edible offal|142000 
-Exports|2020|United States|Meat and edible offal|143000 
-Exports|2020|United States|Meat and edible offal|144000 
-Exports|2020|United States|Meat and edible offal|144000 
-Exports|2020|United States|Meat and edible offal|144000 
-Exports|2020|United States|Meat and edible offal|144000 
-Exports|2020|United States|Meat and edible offal|145000 
-Exports|2020|United States|Meat and edible offal|146000 
-Exports|2020|United States|Meat and edible offal|147000 
-Exports|2020|United States|Meat and edible offal|147000 
-Exports|2020|United States|Meat and edible offal|148000 
-Exports|2020|United States|Meat and edible offal|148000 
-Exports|2020|United States|Meat and edible offal|148000 
-Exports|2020|United States|Meat and edible offal|149000 
-Exports|2020|United States|Meat and edible offal|150000 
-Exports|2020|United States|Meat and edible offal|150000 
-Exports|2020|United States|Meat and edible offal|151000 
-Exports|2020|United States|Meat and edible offal|151000 
-Exports|2020|United States|Meat and edible offal|151000 
-Exports|2020|United States|Meat and edible offal|152000 
-Exports|2020|United States|Meat and edible offal|152000 
-Exports|2020|United States|Meat and edible offal|153000 
-Exports|2020|United States|Meat and edible offal|153000 
-Exports|2020|United States|Meat and edible offal|153000 
-Exports|2020|United States|Meat and edible offal|153000 
-Exports|2020|United States|Meat and edible offal|154000 
-Exports|2020|United States|Meat and edible offal|154000 
-Exports|2020|United States|Meat and edible offal|155000 
-Exports|2020|United States|Meat and edible offal|155000 
-Exports|2020|United States|Meat and edible offal|156000 
-Exports|2020|United States|Meat and edible offal|156000 
-Exports|2020|United States|Meat and edible offal|156000 
-Exports|2020|United States|Meat and edible offal|156000 
-Exports|2020|United States|Meat and edible offal|157000 
-Exports|2020|United States|Meat and edible offal|157000 
-Exports|2020|United States|Meat and edible offal|158000 
-Exports|2020|United States|Meat and edible offal|158000 
-Exports|2020|United States|Meat and edible offal|158000 
-Exports|2020|United States|Meat and edible offal|159000 
-Exports|2020|United States|Meat and edible offal|159000 
-Exports|2020|United States|Meat and edible offal|160000 
-Exports|2020|United States|Meat and edible offal|160000 
-Exports|2020|United States|Meat and edible offal|161000 
-Exports|2020|United States|Meat and edible offal|161000 
-Exports|2020|United States|Meat and edible offal|161000 
-Exports|2020|United States|Meat and edible offal|162000 
-Exports|2020|United States|Meat and edible offal|162000 
-Exports|2020|United States|Meat and edible offal|162000 
-Exports|2020|United States|Meat and edible offal|163000 
-Exports|2020|United States|Meat and edible offal|163000 
-Exports|2020|United States|Meat and edible offal|164000 
-Exports|2020|United States|Meat and edible offal|164000 
-Exports|2020|United States|Meat and edible offal|164000 
-Exports|2020|United States|Meat and edible offal|165000 
-Exports|2020|United States|Meat and edible offal|165000 
-Exports|2020|United States|Meat and edible offal|166000 
-Exports|2020|United States|Meat and edible offal|166000 
-Exports|2020|United States|Meat and edible offal|166000 
-Exports|2020|United States|Meat and edible offal|166000 
-Exports|2020|United States|Meat and edible offal|166000 
-Exports|2020|United States|Meat and edible offal|167000 
-Exports|2020|United States|Meat and edible offal|167000 
-Exports|2020|United States|Meat and edible offal|167000 
-Exports|2020|United States|Meat and edible offal|168000 
-Exports|2020|United States|Meat and edible offal|168000 
-Exports|2020|United States|Meat and edible offal|168000 
-Exports|2020|United States|Meat and edible offal|169000 
-Exports|2020|United States|Meat and edible offal|169000 
-Exports|2020|United States|Meat and edible offal|170000 
-Exports|2020|United States|Meat and edible offal|170000 
-Exports|2020|United States|Meat and edible offal|170000 
-Exports|2020|United States|Meat and edible offal|171000 
-Exports|2020|United States|Meat and edible offal|171000 
-Exports|2020|United States|Meat and edible offal|171000 
-Exports|2020|United States|Meat and edible offal|172000 
-Exports|2020|United States|Meat and edible offal|172000 
-Exports|2020|United States|Meat and edible offal|172000 
-Exports|2020|United States|Meat and edible offal|172000 
-Exports|2020|United States|Meat and edible offal|172000 
-Exports|2020|United States|Meat and edible offal|172000 
-Exports|2020|United States|Meat and edible offal|173000 
-Exports|2020|United States|Meat and edible offal|173000 
-Exports|2020|United States|Meat and edible offal|173000 
-Exports|2020|United States|Meat and edible offal|174000 
-Exports|2020|United States|Meat and edible offal|174000 
-Exports|2020|United States|Meat and edible offal|175000 
-Exports|2020|United States|Meat and edible offal|175000 
-Exports|2020|United States|Meat and edible offal|175000 
-Exports|2020|United States|Meat and edible offal|175000 
-Exports|2020|United States|Meat and edible offal|175000 
-Exports|2020|United States|Meat and edible offal|176000 
-Exports|2020|United States|Meat and edible offal|176000 
-Exports|2020|United States|Meat and edible offal|176000 
-Exports|2020|United States|Meat and edible offal|177000 
-Exports|2020|United States|Meat and edible offal|177000 
-Exports|2020|United States|Meat and edible offal|178000 
-Exports|2020|United States|Meat and edible offal|178000 
-Exports|2020|United States|Meat and edible offal|178000 
-Exports|2020|United States|Meat and edible offal|179000 
-Exports|2020|United States|Meat and edible offal|179000 
-Exports|2020|United States|Meat and edible offal|179000 
-Exports|2020|United States|Meat and edible offal|180000 
-Exports|2020|United States|Meat and edible offal|180000 
-Exports|2020|United States|Meat and edible offal|181000 
-Exports|2020|United States|Meat and edible offal|181000 
-Exports|2020|United States|Meat and edible offal|181000 
-Exports|2020|United States|Meat and edible offal|182000 
-Exports|2020|United States|Meat and edible offal|182000 
-Exports|2020|United States|Meat and edible offal|182000 
-Exports|2020|United States|Meat and edible offal|182000 
-Exports|2020|United States|Meat and edible offal|183000 
-Exports|2020|United States|Meat and edible offal|184000 
-Exports|2020|United States|Meat and edible offal|184000 
-Exports|2020|United States|Meat and edible offal|184000 
-Exports|2020|United States|Meat and edible offal|185000 
-Exports|2020|United States|Meat and edible offal|185000 
-Exports|2020|United States|Meat and edible offal|186000 
-Exports|2020|United States|Meat and edible offal|187000 
-Exports|2020|United States|Meat and edible offal|187000 
-Exports|2020|United States|Meat and edible offal|188000 
-Exports|2020|United States|Meat and edible offal|188000 
-Exports|2020|United States|Meat and edible offal|189000 
-Exports|2020|United States|Meat and edible offal|189000 
-Exports|2020|United States|Meat and edible offal|189000 
-Exports|2020|United States|Meat and edible offal|190000 
-Exports|2020|United States|Meat and edible offal|190000 
-Exports|2020|United States|Meat and edible offal|190000 
-Exports|2020|United States|Meat and edible offal|191000 
-Exports|2020|United States|Meat and edible offal|191000 
-Exports|2020|United States|Meat and edible offal|191000 
-Exports|2020|United States|Meat and edible offal|192000 
-Exports|2020|United States|Meat and edible offal|192000 
-Exports|2020|United States|Meat and edible offal|193000 
-Exports|2020|United States|Meat and edible offal|194000 
-Exports|2020|United States|Meat and edible offal|195000 
-Exports|2020|United States|Meat and edible offal|195000 
-Exports|2020|United States|Meat and edible offal|196000 
-Exports|2020|United States|Meat and edible offal|196000 
-Exports|2020|United States|Meat and edible offal|196000 
-Exports|2020|United States|Meat and edible offal|197000 
-Exports|2020|United States|Meat and edible offal|198000 
-Exports|2020|United States|Meat and edible offal|198000 
-Exports|2020|United States|Meat and edible offal|198000 
-Exports|2020|United States|Meat and edible offal|199000 
-Exports|2020|United States|Meat and edible offal|199000 
-Exports|2020|United States|Meat and edible offal|200000 
-Exports|2020|United States|Meat and edible offal|202000 
-Exports|2020|United States|Meat and edible offal|202000 
-Exports|2020|United States|Meat and edible offal|203000 
-Exports|2020|United States|Meat and edible offal|203000 
-Exports|2020|United States|Meat and edible offal|204000 
-Exports|2020|United States|Meat and edible offal|205000 
-Exports|2020|United States|Meat and edible offal|205000 
-Exports|2020|United States|Meat and edible offal|206000 
-Exports|2020|United States|Meat and edible offal|206000 
-Exports|2020|United States|Meat and edible offal|206000 
-Exports|2020|United States|Meat and edible offal|207000 
-Exports|2020|United States|Meat and edible offal|208000 
-Exports|2020|United States|Meat and edible offal|208000 
-Exports|2020|United States|Meat and edible offal|209000 
-Exports|2020|United States|Meat and edible offal|210000 
-Exports|2021|United States|All|23000000 
-Exports|2021|United States|All|29000000 
-Exports|2021|United States|All|49000000 
-Exports|2021|United States|All|65000000 
-Exports|2021|United States|All|71000000 
-Exports|2021|United States|All|86000000 
-Exports|2021|United States|All|104000000 
-Exports|2021|United States|All|120000000 
-Exports|2021|United States|All|133000000 
-Exports|2021|United States|All|135000000 
-Exports|2021|United States|All|146000000 
-Exports|2021|United States|All|151000000 
-Exports|2021|United States|All|153000000 
-Exports|2021|United States|All|161000000 
-Exports|2021|United States|All|168000000 
-Exports|2021|United States|All|176000000 
-Exports|2021|United States|All|194000000 
-Exports|2021|United States|All|197000000 
-Exports|2021|United States|All|206000000 
-Exports|2021|United States|All|214000000 
-Exports|2021|United States|All|232000000 
-Exports|2021|United States|All|245000000 
-Exports|2021|United States|All|255000000 
-Exports|2021|United States|All|265000000 
-Exports|2021|United States|All|276000000 
-Exports|2021|United States|All|300000000 
-Exports|2021|United States|All|318000000 
-Exports|2021|United States|All|329000000 
-Exports|2021|United States|All|360000000 
-Exports|2021|United States|All|374000000 
-Exports|2021|United States|All|407000000 
-Exports|2021|United States|All|431000000 
-Exports|2021|United States|All|448000000 
-Exports|2021|United States|All|466000000 
-Exports|2021|United States|All|478000000 
-Exports|2021|United States|All|504000000 
-Exports|2021|United States|All|516000000 
-Exports|2021|United States|All|542000000 
-Exports|2021|United States|All|552000000 
-Exports|2021|United States|All|579000000 
-Exports|2021|United States|All|592000000 
-Exports|2021|United States|All|608000000 
-Exports|2021|United States|All|620000000 
-Exports|2021|United States|All|632000000 
-Exports|2021|United States|All|640000000 
-Exports|2021|United States|All|651000000 
-Exports|2021|United States|All|657000000 
-Exports|2021|United States|All|674000000 
-Exports|2021|United States|All|695000000 
-Exports|2021|United States|All|710000000 
-Exports|2021|United States|All|724000000 
-Exports|2021|United States|All|738000000 
-Exports|2021|United States|All|747000000 
-Exports|2021|United States|All|771000000 
-Exports|2021|United States|All|797000000 
-Exports|2021|United States|Meat and edible offal|3000000 
-Exports|2021|United States|Meat and edible offal|6000000 
-Exports|2021|United States|Meat and edible offal|12000000 
-Exports|2021|United States|Meat and edible offal|16000000 
-Exports|2021|United States|Meat and edible offal|16000000 
-Exports|2021|United States|Meat and edible offal|25000000 
-Exports|2021|United States|Meat and edible offal|29000000 
-Exports|2021|United States|Meat and edible offal|31000000 
-Exports|2021|United States|Meat and edible offal|35000000 
-Exports|2021|United States|Meat and edible offal|35000000 
-Exports|2021|United States|Meat and edible offal|38000000 
-Exports|2021|United States|Meat and edible offal|40000000 
-Exports|2021|United States|Meat and edible offal|40000000 
-Exports|2021|United States|Meat and edible offal|44000000 
-Exports|2021|United States|Meat and edible offal|45000000 
-Exports|2021|United States|Meat and edible offal|49000000 
-Exports|2021|United States|Meat and edible offal|56000000 
-Exports|2021|United States|Meat and edible offal|57000000 
-Exports|2021|United States|Meat and edible offal|61000000 
-Exports|2021|United States|Meat and edible offal|65000000 
-Exports|2021|United States|Meat and edible offal|74000000 
-Exports|2021|United States|Meat and edible offal|79000000 
-Exports|2021|United States|Meat and edible offal|81000000 
-Exports|2021|United States|Meat and edible offal|85000000 
-Exports|2021|United States|Meat and edible offal|88000000 
-Exports|2021|United States|Meat and edible offal|99000000 
-Exports|2021|United States|Meat and edible offal|109000000 
-Exports|2021|United States|Meat and edible offal|113000000 
-Exports|2021|United States|Meat and edible offal|121000000 
-Exports|2021|United States|Meat and edible offal|128000000 
-Exports|2021|United States|Meat and edible offal|136000000 
-Exports|2021|United States|Meat and edible offal|143000000 
-Exports|2021|United States|Meat and edible offal|147000000 
-Exports|2021|United States|Meat and edible offal|153000000 
-Exports|2021|United States|Meat and edible offal|157000000 
-Exports|2021|United States|Meat and edible offal|164000000 
-Exports|2021|United States|Meat and edible offal|171000000 
-Exports|2021|United States|Meat and edible offal|184000000 
-Exports|2021|United States|Meat and edible offal|191000000 
-Exports|2021|United States|Meat and edible offal|196000000 
-Exports|2021|United States|Meat and edible offal|203000000 
-Exports|2021|United States|Meat and edible offal|205000000 
-Exports|2021|United States|Meat and edible offal|209000000 
-Exports|2021|United States|Meat and edible offal|215000000 
-Exports|2021|United States|Meat and edible offal|217000000 
-Exports|2021|United States|Meat and edible offal|221000000 
-Exports|2021|United States|Meat and edible offal|223000000 
-Exports|2021|United States|Meat and edible offal|228000000 
-Exports|2021|United States|Meat and edible offal|233000000 
-Exports|2021|United States|Meat and edible offal|238000000 
-Exports|2021|United States|Meat and edible offal|243000000 
-Exports|2021|United States|Meat and edible offal|250000000 
-Exports|2021|United States|Meat and edible offal|252000000 
-Exports|2021|United States|Meat and edible offal|261000000 
-Exports|2021|United States|Meat and edible offal|269000000 
-Exports|2021|United States|Meat and edible offal|0 
-Exports|2021|United States|Meat and edible offal|1000 
-Exports|2021|United States|Meat and edible offal|1000 
-Exports|2021|United States|Meat and edible offal|2000 
-Exports|2021|United States|Meat and edible offal|2000 
-Exports|2021|United States|Meat and edible offal|3000 
-Exports|2021|United States|Meat and edible offal|4000 
-Exports|2021|United States|Meat and edible offal|4000 
-Exports|2021|United States|Meat and edible offal|4000 
-Exports|2021|United States|Meat and edible offal|5000 
-Exports|2021|United States|Meat and edible offal|5000 
-Exports|2021|United States|Meat and edible offal|5000 
-Exports|2021|United States|Meat and edible offal|5000 
-Exports|2021|United States|Meat and edible offal|6000 
-Exports|2021|United States|Meat and edible offal|6000 
-Exports|2021|United States|Meat and edible offal|6000 
-Exports|2021|United States|Meat and edible offal|7000 
-Exports|2021|United States|Meat and edible offal|7000 
-Exports|2021|United States|Meat and edible offal|8000 
-Exports|2021|United States|Meat and edible offal|8000 
-Exports|2021|United States|Meat and edible offal|10000 
-Exports|2021|United States|Meat and edible offal|10000 
-Exports|2021|United States|Meat and edible offal|11000 
-Exports|2021|United States|Meat and edible offal|11000 
-Exports|2021|United States|Meat and edible offal|11000 
-Exports|2021|United States|Meat and edible offal|13000 
-Exports|2021|United States|Meat and edible offal|14000 
-Exports|2021|United States|Meat and edible offal|15000 
-Exports|2021|United States|Meat and edible offal|16000 
-Exports|2021|United States|Meat and edible offal|17000 
-Exports|2021|United States|Meat and edible offal|18000 
-Exports|2021|United States|Meat and edible offal|19000 
-Exports|2021|United States|Meat and edible offal|19000 
-Exports|2021|United States|Meat and edible offal|20000 
-Exports|2021|United States|Meat and edible offal|20000 
-Exports|2021|United States|Meat and edible offal|21000 
-Exports|2021|United States|Meat and edible offal|22000 
-Exports|2021|United States|Meat and edible offal|24000 
-Exports|2021|United States|Meat and edible offal|25000 
-Exports|2021|United States|Meat and edible offal|26000 
-Exports|2021|United States|Meat and edible offal|27000 
-Exports|2021|United States|Meat and edible offal|27000 
-Exports|2021|United States|Meat and edible offal|27000 
-Exports|2021|United States|Meat and edible offal|28000 
-Exports|2021|United States|Meat and edible offal|28000 
-Exports|2021|United States|Meat and edible offal|29000 
-Exports|2021|United States|Meat and edible offal|29000 
-Exports|2021|United States|Meat and edible offal|30000 
-Exports|2021|United States|Meat and edible offal|30000 
-Exports|2021|United States|Meat and edible offal|31000 
-Exports|2021|United States|Meat and edible offal|32000 
-Exports|2021|United States|Meat and edible offal|33000 
-Exports|2021|United States|Meat and edible offal|33000 
-Exports|2021|United States|Meat and edible offal|34000 
-Exports|2021|United States|Meat and edible offal|35000 
+Chevrolet Chevelle Malibu | 18.0 | 130.0 | 12.0 | US 
+Buick Skylark 320 | 15.0 | 165.0 | 11.5 | US 
+Plymouth Satellite | 18.0 | 150.0 | 11.0 | US 
+AMC Rebel SST | 16.0 | 150.0 | 12.0 | US 
+Ford Torino | 17.0 | 140.0 | 10.5 | US 
+Ford Galaxie 500 | 15.0 | 198.0 | 10.0 | US 
+Chevrolet Impala | 14.0 | 220.0 | 9.0 | US 
+Plymouth Fury iii | 14.0 | 215.0 | 8.5 | US 
+Pontiac Catalina | 14.0 | 225.0 | 10.0 | US 
+AMC Ambassador DPL | 15.0 | 190.0 | 8.5 | US 
+Citroen DS-21 Pallas | 0 | 115.0 | 17.5 | Europe 
+Chevrolet Chevelle Concours (sw) | 0 | 165.0 | 11.5 | US 
+Ford Torino (sw) | 0 | 153.0 | 11.0 | US 
+Plymouth Satellite (sw) | 0 | 175.0 | 10.5 | US 
+AMC Rebel SST (sw) | 0 | 175.0 | 11.0 | US 
+Dodge Challenger SE | 15.0 | 170.0 | 10.0 | US 
+Plymouth 'Cuda 340 | 14.0 | 160.0 | 8.0 | US 
+Ford Mustang Boss 302 | 0 | 140.0 | 8.0 | US 
+Chevrolet Monte Carlo | 15.0 | 150.0 | 9.5 | US 
+Buick Estate Wagon (sw) | 14.0 | 225.0 | 10.0 | US 
+Toyota Corolla Mark ii | 24.0 | 95.00 | 15.0 | Japan 
+Plymouth Duster | 22.0 | 95.00 | 15.5 | US 
+AMC Hornet | 18.0 | 97.00 | 15.5 | US 
+Ford Maverick | 21.0 | 85.00 | 16.0 | US 
+Datsun PL510 | 27.0 | 88.00 | 14.5 | Japan 
+Volkswagen 1131 Deluxe Sedan | 26.0 | 46.00 | 20.5 | Europe 
+Peugeot 504 | 25.0 | 87.00 | 17.5 | Europe 
+Audi 100 LS | 24.0 | 90.00 | 14.5 | Europe 
+Saab 99e | 25.0 | 95.00 | 17.5 | Europe 
+BMW 2002 | 26.0 | 113.0 | 12.5 | Europe 
+AMC Gremlin | 21.0 | 90.00 | 15.0 | US 
+Ford F250 | 10.0 | 215.0 | 14.0 | US 
+Chevy C20 | 10.0 | 200.0 | 15.0 | US 
+Dodge D200 | 11.0 | 210.0 | 13.5 | US 
+Hi 1200D | 9.0 | 193.0 | 18.5 | US 
+Datsun PL510 | 27.0 | 88.00 | 14.5 | Japan 
+Chevrolet Vega 2300 | 28.0 | 90.00 | 15.5 | US 
+Toyota Corolla | 25.0 | 95.00 | 14.0 | Japan 
+Ford Pinto | 25.0 | 0 | 19.0 | US 
+Volkswagen Super Beetle 117 | 0 | 48.00 | 20.0 | Europe 
+AMC Gremlin | 19.0 | 100.0 | 13.0 | US 
+Plymouth Satellite Custom | 16.0 | 105.0 | 15.5 | US 
+Chevrolet Chevelle Malibu | 17.0 | 100.0 | 15.5 | US 
+Ford Torino 500 | 19.0 | 88.00 | 15.5 | US 
+AMC Matador | 18.0 | 100.0 | 15.5 | US 
+Chevrolet Impala | 14.0 | 165.0 | 12.0 | US 
+Pontiac Catalina Brougham | 14.0 | 175.0 | 11.5 | US 
+Ford Galaxie 500 | 14.0 | 153.0 | 13.5 | US 
+Plymouth Fury iii | 14.0 | 150.0 | 13.0 | US 
+Dodge Monaco (sw) | 12.0 | 180.0 | 11.5 | US 
+Ford Country Squire (sw) | 13.0 | 170.0 | 12.0 | US 
+Pontiac Safari (sw) | 13.0 | 175.0 | 12.0 | US 
+AMC Hornet Sportabout (sw) | 18.0 | 110.0 | 13.5 | US 
+Chevrolet Vega (sw) | 22.0 | 72.00 | 19.0 | US 
+Pontiac Firebird | 19.0 | 100.0 | 15.0 | US 
+Ford Mustang | 18.0 | 88.00 | 14.5 | US 
+Mercury Capri 2000 | 23.0 | 86.00 | 14.0 | US 
+Opel 1900 | 28.0 | 90.00 | 14.0 | Europe 
+Peugeot 304 | 30.0 | 70.00 | 19.5 | Europe 
+Fiat 124B | 30.0 | 76.00 | 14.5 | Europe 
+Toyota Corolla 1200 | 31.0 | 65.00 | 19.0 | Japan 
+Datsun 1200 | 35.0 | 69.00 | 18.0 | Japan 
+Volkswagen Model 111 | 27.0 | 60.00 | 19.0 | Europe 
+Plymouth Cricket | 26.0 | 70.00 | 20.5 | US 
+Toyota Corolla Hardtop | 24.0 | 95.00 | 15.5 | Japan 
+Dodge Colt Hardtop | 25.0 | 80.00 | 17.0 | US 
+Volkswagen Type 3 | 23.0 | 54.00 | 23.5 | Europe 
+Chevrolet Vega | 20.0 | 90.00 | 19.5 | US 
+Ford Pinto Runabout | 21.0 | 86.00 | 16.5 | US 
+Chevrolet Impala | 13.0 | 165.0 | 12.0 | US 
+Pontiac Catalina | 14.0 | 175.0 | 12.0 | US 
+Plymouth Fury III | 15.0 | 150.0 | 13.5 | US 
+Ford Galaxie 500 | 14.0 | 153.0 | 13.0 | US 
+AMC Ambassador SST | 17.0 | 150.0 | 11.5 | US 
+Mercury Marquis | 11.0 | 208.0 | 11.0 | US 
+Buick LeSabre Custom | 13.0 | 155.0 | 13.5 | US 
+Oldsmobile Delta 88 Royale | 12.0 | 160.0 | 13.5 | US 
+Chrysler Newport Royal | 13.0 | 190.0 | 12.5 | US 
+Mazda RX2 Coupe | 19.0 | 97.00 | 13.5 | Japan 
+AMC Matador (sw) | 15.0 | 150.0 | 12.5 | US 
+Chevrolet Chevelle Concours (sw) | 13.0 | 130.0 | 14.0 | US 
+Ford Gran Torino (sw) | 13.0 | 140.0 | 16.0 | US 
+Plymouth Satellite Custom (sw) | 14.0 | 150.0 | 14.0 | US 
+Volvo 145e (sw) | 18.0 | 112.0 | 14.5 | Europe 
+Volkswagen 411 (sw) | 22.0 | 76.00 | 18.0 | Europe 
+Peugeot 504 (sw) | 21.0 | 87.00 | 19.5 | Europe 
+Renault 12 (sw) | 26.0 | 69.00 | 18.0 | Europe 
+Ford Pinto (sw) | 22.0 | 86.00 | 16.0 | US 
+Datsun 510 (sw) | 28.0 | 92.00 | 17.0 | Japan 
+Toyota Corolla Mark II (sw) | 23.0 | 97.00 | 14.5 | Japan 
+Dodge Colt (sw) | 28.0 | 80.00 | 15.0 | US 
+Toyota Corolla 1600 (sw) | 27.0 | 88.00 | 16.5 | Japan 
+Buick Century 350 | 13.0 | 175.0 | 13.0 | US 
+AMC Matador | 14.0 | 150.0 | 11.5 | US 
+Chevrolet Malibu | 13.0 | 145.0 | 13.0 | US 
+Ford Gran Torino | 14.0 | 137.0 | 14.5 | US 
+Dodge Coronet Custom | 15.0 | 150.0 | 12.5 | US 
+Mercury Marquis Brougham | 12.0 | 198.0 | 11.5 | US 
+Chevrolet Caprice Classic | 13.0 | 150.0 | 12.0 | US 
+Ford LTD | 13.0 | 158.0 | 13.0 | US 
+Plymouth Fury Gran Sedan | 14.0 | 150.0 | 14.5 | US 
+Chrysler New Yorker Brougham | 13.0 | 215.0 | 11.0 | US 
+Buick Electra 225 Custom | 12.0 | 225.0 | 11.0 | US 
+AMC Ambassador Brougham | 13.0 | 175.0 | 11.0 | US 
+Plymouth Valiant | 18.0 | 105.0 | 16.5 | US 
+Chevrolet Nova Custom | 16.0 | 100.0 | 18.0 | US 
+AMC Hornet | 18.0 | 100.0 | 16.0 | US 
+Ford Maverick | 18.0 | 88.00 | 16.5 | US 
+Plymouth Duster | 23.0 | 95.00 | 16.0 | US 
+Volkswagen Super Beetle | 26.0 | 46.00 | 21.0 | Europe 
+Chevrolet Impala | 11.0 | 150.0 | 14.0 | US 
+Ford Country | 12.0 | 167.0 | 12.5 | US 
+Plymouth Custom Suburb | 13.0 | 170.0 | 13.0 | US 
+Oldsmobile Vista Cruiser | 12.0 | 180.0 | 12.5 | US 
+AMC Gremlin | 18.0 | 100.0 | 15.0 | US 
+Toyota Camry | 20.0 | 88.00 | 19.0 | Japan 
+Chevrolet Vega | 21.0 | 72.00 | 19.5 | US 
+Datsun 610 | 22.0 | 94.00 | 16.5 | Japan 
+Mazda RX3 | 18.0 | 90.00 | 13.5 | Japan 
+Ford Pinto | 19.0 | 85.00 | 18.5 | US 
+Mercury Capri v6 | 21.0 | 107.0 | 14.0 | US 
+Fiat 124 Sport Coupe | 26.0 | 90.00 | 15.5 | Europe 
+Chevrolet Monte Carlo S | 15.0 | 145.0 | 13.0 | US 
+Pontiac Grand Prix | 16.0 | 230.0 | 9.50 | US 
+Fiat 128 | 29.0 | 49.00 | 19.5 | Europe 
+Opel Manta | 24.0 | 75.00 | 15.5 | Europe 
+Audi 100LS | 20.0 | 91.00 | 14.0 | Europe 
+Volvo 144ea | 19.0 | 112.0 | 15.5 | Europe 
+Dodge Dart Custom | 15.0 | 150.0 | 11.0 | US 
+Saab 99le | 24.0 | 110.0 | 14.0 | Europe 
+Toyota Mark II | 20.0 | 122.0 | 13.5 | Japan 
+Oldsmobile Omega | 11.0 | 180.0 | 11.0 | US 
+Plymouth Duster | 20.0 | 95.00 | 16.5 | US 
+Ford Maverick | 21.0 | 0 | 17.0 | US 
+AMC Hornet | 19.0 | 100.0 | 16.0 | US 
+Chevrolet Nova | 15.0 | 100.0 | 17.0 | US 
+Datsun B210 | 31.0 | 67.00 | 19.0 | Japan 
+Ford Pinto | 26.0 | 80.00 | 16.5 | US 
+Toyota Corolla 1200 | 32.0 | 65.00 | 21.0 | Japan 
+Chevrolet Vega | 25.0 | 75.00 | 17.0 | US 
+Chevrolet Chevelle Malibu Classic | 16.0 | 100.0 | 17.0 | US 
+AMC Matador | 16.0 | 110.0 | 18.0 | US 
+Plymouth Satellite Sebring | 18.0 | 105.0 | 16.5 | US 
+Ford Gran Torino | 16.0 | 140.0 | 14.0 | US 
+Buick Century Luxus (sw) | 13.0 | 150.0 | 14.5 | US 
+Dodge Coronet Custom (sw) | 14.0 | 150.0 | 13.5 | US 
+Ford Gran Torino (sw) | 14.0 | 140.0 | 16.0 | US 
+AMC Matador (sw) | 14.0 | 150.0 | 15.5 | US 
+Audi Fox | 29.0 | 83.00 | 16.5 | Europe 
+Volkswagen Dasher | 26.0 | 67.00 | 15.5 | Europe 
+Opel Manta | 26.0 | 78.00 | 14.5 | Europe 
+Toyota Corolla | 31.0 | 52.00 | 16.5 | Japan 
+Datsun 710 | 32.0 | 61.00 | 19.0 | Japan 
+Dodge Colt | 28.0 | 75.00 | 14.5 | US 
+Fiat 128 | 24.0 | 75.00 | 15.5 | Europe 
+Fiat 124 TC | 26.0 | 75.00 | 14.0 | Europe 
+Honda Civic | 24.0 | 97.00 | 15.0 | Japan 
+Subaru | 26.0 | 93.00 | 15.5 | Japan 
+Fiat x1.9 | 31.0 | 67.00 | 16.0 | Europe 
+Plymouth Valiant Custom | 19.0 | 95.00 | 16.0 | US 
+Chevrolet Nova | 18.0 | 105.0 | 16.0 | US 
+Mercury Monarch | 15.0 | 72.00 | 21.0 | US 
+Ford Maverick | 15.0 | 72.00 | 19.5 | US 
+Pontiac Catalina | 16.0 | 170.0 | 11.5 | US 
+Chevrolet Bel Air | 15.0 | 145.0 | 14.0 | US 
+Plymouth Grand Fury | 16.0 | 150.0 | 14.5 | US 
+Ford LTD | 14.0 | 148.0 | 13.5 | US 
+Buick Century | 17.0 | 110.0 | 21.0 | US 
+Chevrolete Chevelle Malibu | 16.0 | 105.0 | 18.5 | US 
+AMC Matador | 15.0 | 110.0 | 19.0 | US 
+Plymouth Fury | 18.0 | 95.00 | 19.0 | US 
+Buick Skyhawk | 21.0 | 110.0 | 15.0 | US 
+Chevrolet Monza 2+2 | 20.0 | 110.0 | 13.5 | US 
+Ford Mustang II | 13.0 | 129.0 | 12.0 | US 
+Toyota Corolla | 29.0 | 75.00 | 16.0 | Japan 
+Ford Pinto | 23.0 | 83.00 | 17.0 | US 
+AMC Gremlin | 20.0 | 100.0 | 16.0 | US 
+Pontiac Astro | 23.0 | 78.00 | 18.5 | US 
+Toyota Corolla | 24.0 | 96.00 | 13.5 | Japan 
+Volkswagen Dasher | 25.0 | 71.00 | 16.5 | Europe 
+Datsun 710 | 24.0 | 97.00 | 17.0 | Japan 
+Ford Pinto | 18.0 | 97.00 | 14.5 | US 
+Volkswagen Rabbit | 29.0 | 70.00 | 14.0 | Europe 
+AMC Pacer | 19.0 | 90.00 | 17.0 | US 
+Audi 100LS | 23.0 | 95.00 | 15.0 | Europe 
+Peugeot 504 | 23.0 | 88.00 | 17.0 | Europe 
+Volvo 244DL | 22.0 | 98.00 | 14.5 | Europe 
+Saab 99LE | 25.0 | 115.0 | 13.5 | Europe 
+Honda Civic CVCC | 33.0 | 53.00 | 17.5 | Japan 
+Fiat 131 | 28.0 | 86.00 | 15.5 | Europe 
+Opel 1900 | 25.0 | 81.00 | 16.9 | Europe 
+Capri ii | 25.0 | 92.00 | 14.9 | US 
+Dodge Colt | 26.0 | 79.00 | 17.7 | US 
+Renault 12tl | 27.0 | 83.00 | 15.3 | Europe 
+Chevrolet Chevelle Malibu Classic | 17.5 | 140.0 | 13.0 | US 
+Dodge Coronet Brougham | 16.0 | 150.0 | 13.0 | US 
+AMC Matador | 15.5 | 120.0 | 13.9 | US 
+Ford Gran Torino | 14.5 | 152.0 | 12.8 | US 
+Plymouth Valiant | 22.0 | 100.0 | 15.4 | US 
+Chevrolet Nova | 22.0 | 105.0 | 14.5 | US 
+Ford Maverick | 24.0 | 81.00 | 17.6 | US 
+AMC Hornet | 22.5 | 90.00 | 17.6 | US 
+Chevrolet Chevette | 29.0 | 52.00 | 22.2 | US 
+Chevrolet Woody | 24.5 | 60.00 | 22.1 | US 
+Volkswagen Rabbit | 29.0 | 70.00 | 14.2 | Europe 
+Honda Civic | 33.0 | 53.00 | 17.4 | Japan 
+Dodge Aspen SE | 20.0 | 100.0 | 17.7 | US 
+Ford Grenada ghia | 18.0 | 78.00 | 21.0 | US 
+Pontiac Ventura SJ | 18.5 | 110.0 | 16.2 | US 
+AMC Pacer d/l | 17.5 | 95.00 | 17.8 | US 
+Volkswagen Rabbit | 29.5 | 71.00 | 12.2 | Europe 
+Datsun B-210 | 32.0 | 70.00 | 17.0 | Japan 
+Toyota Corolla | 28.0 | 75.00 | 16.4 | Japan 
+Ford Pinto | 26.5 | 72.00 | 13.6 | US 
+Volvo 245 | 20.0 | 102.0 | 15.7 | Europe 
+Plymouth Volare Premier v8 | 13.0 | 150.0 | 13.2 | US 
+Peugeot 504 | 19.0 | 88.00 | 21.9 | Europe 
+Toyota Mark II | 19.0 | 108.0 | 15.5 | Japan 
+Mercedes-Benz 280s | 16.5 | 120.0 | 16.7 | Europe 
+Cadillac Seville | 16.5 | 180.0 | 12.1 | US 
+Chevrolet C10 | 13.0 | 145.0 | 12.0 | US 
+Ford F108 | 13.0 | 130.0 | 15.0 | US 
+Dodge D100 | 13.0 | 150.0 | 14.0 | US 
+Honda Accord CVCC | 31.5 | 68.00 | 18.5 | Japan 
+Buick Opel Isuzu Deluxe | 30.0 | 80.00 | 14.8 | US 
+Renault 5 GTL | 36.0 | 58.00 | 18.6 | Europe 
+Plymouth Arrow GS | 25.5 | 96.00 | 15.5 | US 
+Datsun F-10 Hatchback | 33.5 | 70.00 | 16.8 | Japan 
+Chevrolet Caprice Classic | 17.5 | 145.0 | 12.5 | US 
+Oldsmobile Cutlass Supreme | 17.0 | 110.0 | 19.0 | US 
+Dodge Monaco Brougham | 15.5 | 145.0 | 13.7 | US 
+Mercury Cougar Brougham | 15.0 | 130.0 | 14.9 | US 
+Chevrolet Concours | 17.5 | 110.0 | 16.4 | US 
+Buick Skylark | 20.5 | 105.0 | 16.9 | US 
+Plymouth Volare Custom | 19.0 | 100.0 | 17.7 | US 
+Ford Grenada | 18.5 | 98.00 | 19.0 | US 
+Pontiac Grand Prix LJ | 16.0 | 180.0 | 11.1 | US 
+Chevrolet Monte Carlo Landau | 15.5 | 170.0 | 11.4 | US 
+Chrysler Cordoba | 15.5 | 190.0 | 12.2 | US 
+Ford Thunderbird | 16.0 | 149.0 | 14.5 | US 
+Volkswagen Rabbit Custom | 29.0 | 78.00 | 14.5 | Europe 
+Pontiac Sunbird Coupe | 24.5 | 88.00 | 16.0 | US 
+Toyota Corolla Liftback | 26.0 | 75.00 | 18.2 | Japan 
+Ford Mustang II 2+2 | 25.5 | 89.00 | 15.8 | US 
+Chevrolet Chevette | 30.5 | 63.00 | 17.0 | US 
+Dodge Colt m/m | 33.5 | 83.00 | 15.9 | US 
+Subaru DL | 30.0 | 67.00 | 16.4 | Japan 
+Volkswagen Dasher | 30.5 | 78.00 | 14.1 | Europe 
+Datsun 810 | 22.0 | 97.00 | 14.5 | Japan 
+BMW 320i | 21.5 | 110.0 | 12.8 | Europe 
+Mazda RX-4 | 21.5 | 110.0 | 13.5 | Japan 
+Volkswagen Rabbit Custom Diesel | 43.1 | 48.00 | 21.5 | Europe 
+Ford Fiesta | 36.1 | 66.00 | 14.4 | US 
+Mazda GLC Deluxe | 32.8 | 52.00 | 19.4 | Japan 
+Datsun B210 GX | 39.4 | 70.00 | 18.6 | Japan 
+Honda Civic CVCC | 36.1 | 60.00 | 16.4 | Japan 
+Oldsmobile Cutlass Salon Brougham | 19.9 | 110.0 | 15.5 | US 
+Dodge Diplomat | 19.4 | 140.0 | 13.2 | US 
+Mercury Monarch ghia | 20.2 | 139.0 | 12.8 | US 
+Pontiac Phoenix LJ | 19.2 | 105.0 | 19.2 | US 
+Chevrolet Malibu | 20.5 | 95.00 | 18.2 | US 
+Ford Fairmont (auto) | 20.2 | 85.00 | 15.8 | US 
+Ford Fairmont (man) | 25.1 | 88.00 | 15.4 | US 
+Plymouth Volare | 20.5 | 100.0 | 17.2 | US 
+AMC Concord | 19.4 | 90.00 | 17.2 | US 
+Buick Century Special | 20.6 | 105.0 | 15.8 | US 
+Mercury Zephyr | 20.8 | 85.00 | 16.7 | US 
+Dodge Aspen | 18.6 | 110.0 | 18.7 | US 
+AMC Concord d/l | 18.1 | 120.0 | 15.1 | US 
+Chevrolet Monte Carlo Landau | 19.2 | 145.0 | 13.2 | US 
+Buick Regal Sport Coupe (turbo) | 17.7 | 165.0 | 13.4 | US 
+Ford Futura | 18.1 | 139.0 | 11.2 | US 
+Dodge Magnum XE | 17.5 | 140.0 | 13.7 | US 
+Chevrolet Chevette | 30.0 | 68.00 | 16.5 | US 
+Toyota Corolla | 27.5 | 95.00 | 14.2 | Japan 
+Datsun 510 | 27.2 | 97.00 | 14.7 | Japan 
+Dodge Omni | 30.9 | 75.00 | 14.5 | US 
+Toyota Celica GT Liftback | 21.1 | 95.00 | 14.8 | Japan 
+Plymouth Sapporo | 23.2 | 105.0 | 16.7 | US 
+Oldsmobile Starfire SX | 23.8 | 85.00 | 17.6 | US 
+Datsun 200-SX | 23.9 | 97.00 | 14.9 | Japan 
+Audi 5000 | 20.3 | 103.0 | 15.9 | Europe 
+Volvo 264gl | 17.0 | 125.0 | 13.6 | Europe 
+Saab 99gle | 21.6 | 115.0 | 15.7 | Europe 
+Peugeot 604sl | 16.2 | 133.0 | 15.8 | Europe 
+Volkswagen Scirocco | 31.5 | 71.00 | 14.9 | Europe 
+Honda Accord LX | 29.5 | 68.00 | 16.6 | Japan 
+Pontiac Lemans V6 | 21.5 | 115.0 | 15.4 | US 
+Mercury Zephyr 6 | 19.8 | 85.00 | 18.2 | US 
+Ford Fairmont 4 | 22.3 | 88.00 | 17.3 | US 
+AMC Concord DL 6 | 20.2 | 90.00 | 18.2 | US 
+Dodge Aspen 6 | 20.6 | 110.0 | 16.6 | US 
+Chevrolet Caprice Classic | 17.0 | 130.0 | 15.4 | US 
+Ford LTD Landau | 17.6 | 129.0 | 13.4 | US 
+Mercury Grand Marquis | 16.5 | 138.0 | 13.2 | US 
+Dodge St. Regis | 18.2 | 135.0 | 15.2 | US 
+Buick Estate Wagon (sw) | 16.9 | 155.0 | 14.9 | US 
+Ford Country Squire (sw) | 15.5 | 142.0 | 14.3 | US 
+Chevrolet Malibu Classic (sw) | 19.2 | 125.0 | 15.0 | US 
+Chrysler Lebaron Town @ Country (sw) | 18.5 | 150.0 | 13.0 | US 
+Volkswagen Rabbit Custom | 31.9 | 71.00 | 14.0 | Europe 
+Mazda GLC Deluxe | 34.1 | 65.00 | 15.2 | Japan 
+Dodge Colt Hatchback Custom | 35.7 | 80.00 | 14.4 | US 
+AMC Spirit DL | 27.4 | 80.00 | 15.0 | US 
+Mercedes Benz 300d | 25.4 | 77.00 | 20.1 | Europe 
+Cadillac Eldorado | 23.0 | 125.0 | 17.4 | US 
+Peugeot 504 | 27.2 | 71.00 | 24.8 | Europe 
+Oldsmobile Cutlass Salon Brougham | 23.9 | 90.00 | 22.2 | US 
+Plymouth Horizon | 34.2 | 70.00 | 13.2 | US 
+Plymouth Horizon TC3 | 34.5 | 70.00 | 14.9 | US 
+Datsun 210 | 31.8 | 65.00 | 19.2 | Japan 
+Fiat Strada Custom | 37.3 | 69.00 | 14.7 | Europe 
+Buick Skylark Limited | 28.4 | 90.00 | 16.0 | US 
+Chevrolet Citation | 28.8 | 115.0 | 11.3 | US 
+Oldsmobile Omega Brougham | 26.8 | 115.0 | 12.9 | US 
+Pontiac Phoenix | 33.5 | 90.00 | 13.2 | US 
+Volkswagen Rabbit | 41.5 | 76.00 | 14.7 | Europe 
+Toyota Corolla Tercel | 38.1 | 60.00 | 18.8 | Japan 
+Chevrolet Chevette | 32.1 | 70.00 | 15.5 | US 
+Datsun 310 | 37.2 | 65.00 | 16.4 | Japan 
+Chevrolet Citation | 28.0 | 90.00 | 16.5 | US 
+Ford Fairmont | 26.4 | 88.00 | 18.1 | US 
+AMC Concord | 24.3 | 90.00 | 20.1 | US 
+Dodge Aspen | 19.1 | 90.00 | 18.7 | US 
+Audi 4000 | 34.3 | 78.00 | 15.8 | Europe 
+Toyota Corolla Liftback | 29.8 | 90.00 | 15.5 | Japan 
+Mazda 626 | 31.3 | 75.00 | 17.5 | Japan 
+Datsun 510 Hatchback | 37.0 | 92.00 | 15.0 | Japan 
+Toyota Corolla | 32.2 | 75.00 | 15.2 | Japan 
+Mazda GLC | 46.6 | 65.00 | 17.9 | Japan 
+Dodge Colt | 27.9 | 105.0 | 14.4 | US 
+Datsun 210 | 40.8 | 65.00 | 19.2 | Japan 
+Volkswagen Rabbit C (Diesel) | 44.3 | 48.00 | 21.7 | Europe 
+Volkswagen Dasher (diesel) | 43.4 | 48.00 | 23.7 | Europe 
+Audi 5000s (diesel) | 36.4 | 67.00 | 19.9 | Europe 
+Mercedes-Benz 240d | 30.0 | 67.00 | 21.8 | Europe 
+Honda Civic 1500 gl | 44.6 | 67.00 | 13.8 | Japan 
+Renault Lecar Deluxe | 40.9 | 0 | 17.3 | Europe 
+Subaru DL | 33.8 | 67.00 | 18.0 | Japan 
+Volkswagen Rabbit | 29.8 | 62.00 | 15.3 | Europe 
+Datsun 280-ZX | 32.7 | 132.0 | 11.4 | Japan 
+Mazda RX-7 GS | 23.7 | 100.0 | 12.5 | Japan 
+Triumph TR7 Coupe | 35.0 | 88.00 | 15.1 | Europe 
+Ford Mustang Cobra | 23.6 | 0 | 14.3 | US 
+Honda Accord | 32.4 | 72.00 | 17.0 | Japan 
+Plymouth Reliant | 27.2 | 84.00 | 15.7 | US 
+Buick Skylark | 26.6 | 84.00 | 16.4 | US 
+Dodge Aries Wagon (sw) | 25.8 | 92.00 | 14.4 | US 
+Chevrolet Citation | 23.5 | 110.0 | 12.6 | US 
+Plymouth Reliant | 30.0 | 84.00 | 12.9 | US 
+Toyota Starlet | 39.1 | 58.00 | 16.9 | Japan 
+Plymouth Champ | 39.0 | 64.00 | 16.4 | US 
+Honda Civic 1300 | 35.1 | 60.00 | 16.1 | Japan 
+Subaru | 32.3 | 67.00 | 17.8 | Japan 
+Datsun 210 MPG | 37.0 | 65.00 | 19.4 | Japan 
+Toyota Tercel | 37.7 | 62.00 | 17.3 | Japan 
+Mazda GLC 4 | 34.1 | 68.00 | 16.0 | Japan 
+Plymouth Horizon 4 | 34.7 | 63.00 | 14.9 | US 
+Ford Escort 4W | 34.4 | 65.00 | 16.2 | US 
+Ford Escort 2H | 29.9 | 65.00 | 20.7 | US 
+Volkswagen Jetta | 33.0 | 74.00 | 14.2 | Europe 
+Renault 18i | 34.5 | 0 | 15.8 | Europe 
+Honda Prelude | 33.7 | 75.00 | 14.4 | Japan 
+Toyota Corolla | 32.4 | 75.00 | 16.8 | Japan 
+Datsun 200SX | 32.9 | 100.0 | 14.8 | Japan 
+Mazda 626 | 31.6 | 74.00 | 18.3 | Japan 
+Peugeot 505s Turbo Diesel | 28.1 | 80.00 | 20.4 | Europe 
+Saab 900s | 0 | 110.0 | 15.4 | Europe 
+Volvo Diesel | 30.7 | 76.00 | 19.6 | Europe 
+Toyota Cressida | 25.4 | 116.0 | 12.6 | Japan 
+Datsun 810 Maxima | 24.2 | 120.0 | 13.8 | Japan 
+Buick Century | 22.4 | 110.0 | 15.8 | US 
+Oldsmobile Cutlass LS | 26.6 | 105.0 | 19.0 | US 
+Ford Grenada gl | 20.2 | 88.00 | 17.1 | US 
+Chrysler Lebaron Salon | 17.6 | 85.00 | 16.6 | US 
+Chevrolet Cavalier | 28.0 | 88.00 | 19.6 | US 
+Chevrolet Cavalier Wagon | 27.0 | 88.00 | 18.6 | US 
+Chevrolet Cavalier 2-door | 34.0 | 88.00 | 18.0 | US 
+Pontiac J2000 SE Hatchback | 31.0 | 85.00 | 16.2 | US 
+Dodge Aries SE | 29.0 | 84.00 | 16.0 | US 
+Pontiac Phoenix | 27.0 | 90.00 | 18.0 | US 
+Ford Fairmont Futura | 24.0 | 92.00 | 16.4 | US 
+AMC Concord DL | 23.0 | 0 | 20.5 | US 
+Volkswagen Rabbit l | 36.0 | 74.00 | 15.3 | Europe 
+Mazda GLC Custom l | 37.0 | 68.00 | 18.2 | Japan 
+Mazda GLC Custom | 31.0 | 68.00 | 17.6 | Japan 
+Plymouth Horizon Miser | 38.0 | 63.00 | 14.7 | US 
+Mercury Lynx l | 36.0 | 70.00 | 17.3 | US 
+Nissan Stanza XE | 36.0 | 88.00 | 14.5 | Japan 
+Honda Accord | 36.0 | 75.00 | 14.5 | Japan 
+Toyota Corolla | 34.0 | 70.00 | 16.9 | Japan 
+Honda Civic | 38.0 | 67.00 | 15.0 | Japan 
+Honda Civic (auto) | 32.0 | 67.00 | 15.7 | Japan 
+Datsun 310 GX | 38.0 | 67.00 | 16.2 | Japan 
+Buick Century Limited | 25.0 | 110.0 | 16.4 | US 
+Oldsmobile Cutlass Ciera (diesel) | 38.0 | 85.00 | 17.0 | US 
+Chrysler Lebaron Medallion | 26.0 | 92.00 | 14.5 | US 
+Ford Grenada l | 22.0 | 112.0 | 14.7 | US 
+Toyota Celica GT | 32.0 | 96.00 | 13.9 | Japan 
+Dodge Charger 2.2 | 36.0 | 84.00 | 13.0 | US 
+Chevrolet Camaro | 27.0 | 90.00 | 17.3 | US 
+Ford Mustang GL | 27.0 | 86.00 | 15.6 | US 
+Volkswagen Pickup | 44.0 | 52.00 | 24.6 | Europe 
+Dodge Rampage | 32.0 | 84.00 | 11.6 | US 
+Ford Ranger | 28.0 | 79.00 | 18.6 | US 
+Chevy S-10 | 31.0 | 82.00 | 19.4 | US 
