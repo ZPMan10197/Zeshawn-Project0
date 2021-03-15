@@ -1,0 +1,4 @@
+[debug] [csvreader-test] Classpath dependencies List()
+[debug] [csvreader-test] Dependencies from configurations List(csvreader)
+[debug] Bloop wrote the configuration of project 'csvreader-test' to '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/.bloop/csvreader-test.json'
+[success] Generated .bloop/csvreader-test.json
