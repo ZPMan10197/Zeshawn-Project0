@@ -8242,3 +8242,1179 @@ WARNING: Unmatched cancel notification for request id 151
 [0m2021.03.15 03:13:13 INFO  time: compiled csvreader in 0.69s[0m
 [0m2021.03.15 03:14:08 INFO  compiling csvreader (1 scala source)[0m
 [0m2021.03.15 03:14:08 INFO  time: compiled csvreader in 0.77s[0m
+Mar 15, 2021 3:14:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 178
+Mar 15, 2021 3:14:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 183
+Mar 15, 2021 3:14:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 188
+Mar 15, 2021 3:14:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 193
+Mar 15, 2021 3:23:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 202
+Mar 15, 2021 3:23:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 207
+[0m2021.03.15 03:23:24 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:23:24 INFO  time: compiled csvreader in 86ms[0m
+Mar 15, 2021 3:23:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+Mar 15, 2021 3:23:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 259
+Mar 15, 2021 3:23:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 268
+import _root_.scala.xml.{TopScope=>$scope}
+import _root_.sbt._
+import _root_.sbt.Keys._
+import _root_.sbt.nio.Keys._
+import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._
+import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin
+
+scalaVersion := "2.13.3"
+
+name := "CSVReader"
+organization := "com.revature"
+version := "1.0"
+
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.1.1"
+libraryDependencies += "au.com.bytecode" % "opencsv" % "2.4"
+libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.2" % "test"
+
+
+[0m2021.03.15 03:23:56 INFO  running '/opt/homebrew/Cellar/openjdk@11/11.0.9/libexec/openjdk.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/metals5682206928402701642/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.03.15 03:23:57 INFO  [info] welcome to sbt 1.4.9 (Oracle Corporation Java 11.0.9)[0m
+[0m2021.03.15 03:23:57 INFO  [info] loading settings for project csvreader-build-build from metals.sbt ...[0m
+Mar 15, 2021 3:23:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 277
+[0m2021.03.15 03:23:57 INFO  [info] loading project definition from /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/project[0m
+[0m2021.03.15 03:23:58 INFO  [info] loading settings for project csvreader-build from metals.sbt ...[0m
+[0m2021.03.15 03:23:58 INFO  [info] loading project definition from /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project[0m
+[0m2021.03.15 03:23:58 INFO  [success] Generated .bloop/csvreader-build.json[0m
+[0m2021.03.15 03:23:58 INFO  [success] Total time: 1 s, completed Mar 15, 2021, 3:23:59 AM[0m
+[0m2021.03.15 03:24:00 INFO  [info] loading settings for project csvreader from build.sbt ...[0m
+[0m2021.03.15 03:24:00 INFO  [info] set current project to CSVReader (in build file:/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/)[0m
+[0m2021.03.15 03:24:02 INFO  [success] Generated .bloop/csvreader.json[0m
+[0m2021.03.15 03:24:02 INFO  [success] Generated .bloop/csvreader-test.json[0m
+[0m2021.03.15 03:24:02 INFO  [success] Total time: 1 s, completed Mar 15, 2021, 3:24:02 AM[0m
+[0m2021.03.15 03:24:02 INFO  time: ran 'sbt bloopInstall' in 6.22s[0m
+[0m2021.03.15 03:24:02 INFO  sbt bloopInstall exit: 0[0m
+[0m2021.03.15 03:24:02 INFO  Disconnecting from Bloop session...[0m
+[0m2021.03.15 03:24:02 INFO  Shut down connection with build server.[0m
+[0m2021.03.15 03:24:02 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.03.15 03:24:02 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher4270417716405205525/bsp.socket'...
+Waiting for the bsp connection to come up...
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher4270417716405205525/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Loading 2 projects from '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/.bloop'...
+> [0m[32m[D][0m Loading project from '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/.bloop/csvreader-test.json'
+> [0m[32m[D][0m Loading project from '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/.bloop/csvreader.json'
+> [0m[32m[D][0m Configured SemanticDB in projects 'csvreader', 'csvreader-test'
+> [0m[32m[D][0m Elapsed: 19.7655 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnError$extension(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.internal.TaskDoOnCancel$$anon$1.onError(TaskDoOnCancel.scala:43)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$$anon$2.monix$eval$Callback$$nestedInanon$$$anonfun$onSuccess$1(Callback.scala:91)
+> [0m[36m[T][0m 	monix.eval.Callback$$anon$2$$anonfun$onSuccess$2.run(Callback.scala:91)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecutorScheduler.execute(ExecutorScheduler.scala:36)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+> [0m[36m[T][0m 	java.base/java.lang.Thread.run(Thread.java:834)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$$anon$2.monix$eval$Callback$$nestedInanon$$$anonfun$onSuccess$1(Callback.scala:91)
+> [0m[36m[T][0m 	monix.eval.Callback$$anon$2$$anonfun$onSuccess$2.run(Callback.scala:91)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecutorScheduler.execute(ExecutorScheduler.scala:36)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+> [0m[36m[T][0m 	java.base/java.lang.Thread.run(Thread.java:834)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 23198'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:23198...
+The server is listening for incoming connections at tcp://127.0.0.1:23198...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 03:24:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 03:24:02 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher6627656213906704252/bsp.socket'...
+Waiting for the bsp connection to come up...
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher6627656213906704252/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Elapsed: 0.113375 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnSuccess$1(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnSuccess$extension$1.run(Callback.scala:100)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 16950'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:16950...
+The server is listening for incoming connections at tcp://127.0.0.1:16950...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 03:24:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 03:24:02 INFO  time: Connected to build server in 84ms[0m
+[0m2021.03.15 03:24:02 INFO  Connected to Build server: Bloop v1.4.8[0m
+[0m2021.03.15 03:24:03 INFO  time: indexed workspace in 1.23s[0m
+[0m2021.03.15 03:24:03 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/metals.sbt[0m
+[0m2021.03.15 03:24:03 INFO  compiling csvreader (2 scala sources)[0m
+[0m2021.03.15 03:24:03 INFO  time: compiled csvreader in 0.56s[0m
+[0m2021.03.15 03:26:05 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:26:05 INFO  time: compiled csvreader in 59ms[0m
+import _root_.scala.xml.{TopScope=>$scope}
+import _root_.sbt._
+import _root_.sbt.Keys._
+import _root_.sbt.nio.Keys._
+import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._
+import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin
+
+scalaVersion := "2.13.3"
+
+name := "CSVReader"
+organization := "com.revature"
+version := "1.0"
+
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.1.1"
+libraryDependencies += "au.com.bytecode" % "opencsv" % "2.4"
+libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.2" % "test"
+
+
+Mar 15, 2021 3:26:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 330
+[0m2021.03.15 03:26:09 INFO  skipping build import with status 'Installed'[0m
+[0m2021.03.15 03:26:12 INFO  skipping build import with status 'Installed'[0m
+[0m2021.03.15 03:26:13 INFO  skipping build import with status 'Installed'[0m
+Mar 15, 2021 3:26:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 345
+[0m2021.03.15 03:26:32 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:26:32 INFO  time: compiled csvreader in 0.38s[0m
+Mar 15, 2021 3:28:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 399
+Mar 15, 2021 3:28:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 405
+Mar 15, 2021 3:28:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 410
+Mar 15, 2021 3:28:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 480
+Mar 15, 2021 3:29:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 534
+[0m2021.03.15 03:29:53 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:29:53 INFO  time: compiled csvreader in 0.52s[0m
+Mar 15, 2021 3:30:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 627
+Mar 15, 2021 3:30:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 633
+[0m2021.03.15 03:31:24 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:31:24 INFO  time: compiled csvreader in 92ms[0m
+[0m2021.03.15 03:31:29 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:31:29 INFO  time: compiled csvreader in 0.19s[0m
+[0m2021.03.15 03:31:32 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:31:32 INFO  time: compiled csvreader in 0.14s[0m
+Mar 15, 2021 3:31:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 724
+[0m2021.03.15 03:31:35 INFO  Shut down connection with build server.[0m
+[0m2021.03.15 03:31:35 INFO  Shut down connection with build server.[0m
+[0m2021.03.15 03:31:41 INFO  Started: Metals version 0.10.0 in workspace '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader' for client vscode 1.54.2.[0m
+[0m2021.03.15 03:31:42 INFO  time: initialize in 0.8s[0m
+[0m2021.03.15 03:31:46 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher15569630170294341324/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2021.03.15 03:31:46 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/build.sbt[0m
+[0m2021.03.15 03:31:46 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/CSVReader.scala[0m
+[0m2021.03.15 03:31:46 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/metals.sbt[0m
+[0m2021.03.15 03:31:46 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/MongoFactory.scala[0m
+[0m2021.03.15 03:31:46 INFO  skipping build import with status 'Installed'[0m
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher15569630170294341324/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Elapsed: 0.163334 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnSuccess$1(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnSuccess$extension$1.run(Callback.scala:100)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 43191'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:43191...
+The server is listening for incoming connections at tcp://127.0.0.1:43191...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 03:31:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 03:31:46 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher14189238669460557660/bsp.socket'...
+Waiting for the bsp connection to come up...
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher14189238669460557660/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Elapsed: 0.378417 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnSuccess$1(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnSuccess$extension$1.run(Callback.scala:100)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 20829'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:20829...
+The server is listening for incoming connections at tcp://127.0.0.1:20829...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 03:31:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 03:31:46 INFO  time: Connected to build server in 0.23s[0m
+[0m2021.03.15 03:31:46 INFO  Connected to Build server: Bloop v1.4.8[0m
+[0m2021.03.15 03:31:48 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+
+scalaVersion := "2.13.3"
+
+name := "CSVReader"
+organization := "com.revature"
+version := "1.0"
+
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.1.1"
+libraryDependencies += "au.com.bytecode" % "opencsv" % "2.4"
+libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.2" % "test"
+
+
+[0m2021.03.15 03:31:49 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val mongoClient = MongoClient(classOf[originPercentage])
+
+}
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val mongoClient = MongoClient(classOf[originPercentage])
+
+}
+[0m2021.03.15 03:31:49 INFO  time: code lens generation in 1.41s[0m
+[0m2021.03.15 03:31:49 INFO  time: code lens generation in 3.49s[0m
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val mongoClient = MongoClient(classOf[originPercentage])
+
+}
+[0m2021.03.15 03:31:51 INFO  time: indexed workspace in 2.96s[0m
+[0m2021.03.15 03:31:51 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/metals.sbt[0m
+[0m2021.03.15 03:31:51 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:31:51 INFO  time: compiled csvreader in 0.45s[0m
+[0m2021.03.15 03:31:52 INFO  no build target: using presentation compiler with only scala-library: 2.13.3[0m
+// DO NOT EDIT! This file is auto-generated.
+// This file enables sbt-bloop to create bloop config files.
+
+addSbtPlugin("ch.epfl.scala" % "sbt-bloop" % "1.4.8")
+
+import scala.io.Source
+import java.io._
+
+object CSVReader extends App {
+  
+  val filename = "cars.csv"
+  val bufferedSource = io.Source.fromFile(filename)
+  val pw = new PrintWriter(new File("output.txt" ))
+
+
+  for(line <- bufferedSource.getLines().drop(2)){
+    val cols = line.split(";").map(_.trim)
+    pw.write(s"${cols(0)} | ${cols(1)} | ${cols(4)} | ${cols(6)} | ${cols(8)} \n")
+    
+    
+   
+    
+  }
+  pw.close()
+  bufferedSource.close()
+  
+}
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val mongoClient = MongoClient(classOf[originPercentage])
+
+}
+[0m2021.03.15 03:31:52 INFO  time: code lens generation in 3.31s[0m
+[0m2021.03.15 03:31:53 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:31:53 INFO  time: compiled csvreader in 0.14s[0m
+[0m2021.03.15 03:32:24 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:32:24 INFO  time: compiled csvreader in 0.11s[0m
+[0m2021.03.15 03:32:35 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:32:35 INFO  time: compiled csvreader in 0.75s[0m
+[0m2021.03.15 03:33:43 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:33:43 INFO  time: compiled csvreader in 0.95s[0m
+[0m2021.03.15 03:36:25 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:36:25 INFO  time: compiled csvreader in 0.57s[0m
+something's wrong: no file:///Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/MongoFactory.scala in org.mongodb.scala.MongoCollection[<error>]RangePosition(file:///Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/MongoFactory.scala, 870, 870, 901)
+something's wrong: no file:///Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/MongoFactory.scala in org.mongodb.scala.MongoCollection[<error>]RangePosition(file:///Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/MongoFactory.scala, 870, 870, 901)
+[0m2021.03.15 03:40:30 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:40:30 INFO  time: compiled csvreader in 0.21s[0m
+[0m2021.03.15 03:40:36 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:40:36 INFO  time: compiled csvreader in 0.14s[0m
+[0m2021.03.15 03:40:38 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:40:38 INFO  time: compiled csvreader in 0.15s[0m
+import _root_.scala.xml.{TopScope=>$scope}
+import _root_.sbt._
+import _root_.sbt.Keys._
+import _root_.sbt.nio.Keys._
+import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._
+import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin
+
+scalaVersion := "2.13.3"
+
+name := "CSVReader"
+organization := "com.revature"
+version := "1.0"
+
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.1.1"
+libraryDependencies += "au.com.bytecode" % "opencsv" % "2.4"
+libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.2" % "test"
+
+
+Mar 15, 2021 3:40:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 227
+[0m2021.03.15 03:40:41 INFO  Shut down connection with build server.[0m
+[0m2021.03.15 03:40:41 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.03.15 03:40:55 INFO  Started: Metals version 0.10.0 in workspace '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader' for client vscode 1.54.2.[0m
+[0m2021.03.15 03:40:55 INFO  time: initialize in 0.8s[0m
+[0m2021.03.15 03:40:56 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher382380809873631410/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2021.03.15 03:40:55 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/build.sbt[0m
+[0m2021.03.15 03:40:55 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/CSVReader.scala[0m
+[0m2021.03.15 03:40:55 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/metals.sbt[0m
+[0m2021.03.15 03:40:55 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/MongoFactory.scala[0m
+[0m2021.03.15 03:40:56 INFO  skipping build import with status 'Installed'[0m
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher382380809873631410/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Elapsed: 3.024792 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnSuccess$1(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnSuccess$extension$1.run(Callback.scala:100)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 16986'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:16986...
+The server is listening for incoming connections at tcp://127.0.0.1:16986...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 03:40:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 03:40:56 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher16483084135176290709/bsp.socket'...
+Waiting for the bsp connection to come up...
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher16483084135176290709/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Elapsed: 0.5535 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnSuccess$1(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnSuccess$extension$1.run(Callback.scala:100)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 22980'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:22980...
+The server is listening for incoming connections at tcp://127.0.0.1:22980...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 03:40:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 03:40:56 INFO  time: Connected to build server in 0.25s[0m
+[0m2021.03.15 03:40:56 INFO  Connected to Build server: Bloop v1.4.8[0m
+[0m2021.03.15 03:40:57 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+
+scalaVersion := "2.13.3"
+
+name := "CSVReader"
+organization := "com.revature"
+version := "1.0"
+
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.1.1"
+libraryDependencies += "au.com.bytecode" % "opencsv" % "2.4"
+libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.2" % "test"
+
+
+[0m2021.03.15 03:40:59 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val registry = fromRegistries(providers, DEFAULT_CODEC_REGISTRY)
+    val codeRegistry = fromRegistries(fromProviders(classOf[originPercentage]), DEFAULT_CODEC_REGISTRY)
+    val mongoClient = MongoClient()
+
+    val database = mongoClient.getDatabase("cars").withCodecRegistry(codeRegistry)
+
+    def insertCar(data: originPercentage): Unit = {
+      val collection: MongoCollection[originPercentage] = database.getCollection("myCollection")
+      collection.insertOne(data).results()
+    }
+}
+[0m2021.03.15 03:40:59 INFO  time: code lens generation in 3.62s[0m
+[0m2021.03.15 03:41:00 INFO  time: indexed workspace in 2.2s[0m
+[0m2021.03.15 03:41:00 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/metals.sbt[0m
+[0m2021.03.15 03:41:00 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:41:00 INFO  time: compiled csvreader in 0.53s[0m
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val registry = fromRegistries(providers, DEFAULT_CODEC_REGISTRY)
+    val codeRegistry = fromRegistries(fromProviders(classOf[originPercentage]), DEFAULT_CODEC_REGISTRY)
+    val mongoClient = MongoClient()
+
+    val database = mongoClient.getDatabase("cars").withCodecRegistry(codeRegistry)
+
+    def insertCar(data: originPercentage): Unit = {
+      val collection: MongoCollection[originPercentage] = database.getCollection("myCollection")
+      collection.insertOne(data).results()
+    }
+}
+[0m2021.03.15 03:41:01 INFO  no build target: using presentation compiler with only scala-library: 2.13.3[0m
+[0m2021.03.15 03:41:02 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:41:02 INFO  time: compiled csvreader in 0.2s[0m
+// DO NOT EDIT! This file is auto-generated.
+// This file enables sbt-bloop to create bloop config files.
+
+addSbtPlugin("ch.epfl.scala" % "sbt-bloop" % "1.4.8")
+
+import scala.io.Source
+import java.io._
+
+object CSVReader extends App {
+  
+  val filename = "cars.csv"
+  val bufferedSource = io.Source.fromFile(filename)
+  val pw = new PrintWriter(new File("output.txt" ))
+
+
+  for(line <- bufferedSource.getLines().drop(2)){
+    val cols = line.split(";").map(_.trim)
+    pw.write(s"${cols(0)} | ${cols(1)} | ${cols(4)} | ${cols(6)} | ${cols(8)} \n")
+    
+    
+   
+    
+  }
+  pw.close()
+  bufferedSource.close()
+  
+}
+import _root_.scala.xml.{TopScope=>$scope}
+import _root_.sbt._
+import _root_.sbt.Keys._
+import _root_.sbt.nio.Keys._
+import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._
+import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin
+
+scalaVersion := "2.13.3"
+
+name := "CSVReader"
+organization := "com.revature"
+version := "1.0"
+
+
+libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2"
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.1.1"
+libraryDependencies += "au.com.bytecode" % "opencsv" % "2.4"
+libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.2" % "test"
+
+
+Mar 15, 2021 3:41:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+[0m2021.03.15 03:41:04 INFO  skipping build import with status 'Installed'[0m
+[0m2021.03.15 03:41:07 INFO  skipping build import with status 'Installed'[0m
+Mar 15, 2021 3:41:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+[0m2021.03.15 03:41:08 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:41:08 INFO  time: compiled csvreader in 0.16s[0m
+[0m2021.03.15 03:42:45 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:42:45 INFO  time: compiled csvreader in 0.13s[0m
+[0m2021.03.15 03:45:02 INFO  compiling csvreader (1 scala source)[0m
+[0m2021.03.15 03:45:02 INFO  time: compiled csvreader in 0.14s[0m
+[0m2021.03.15 03:45:04 INFO  shutting down Metals[0m
+[0m2021.03.15 03:45:04 INFO  Shut down connection with build server.[0m
+[0m2021.03.15 03:45:04 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.03.15 15:57:34 INFO  Started: Metals version 0.10.0 in workspace '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader' for client vscode 1.54.2.[0m
+[0m2021.03.15 15:57:35 INFO  time: initialize in 0.75s[0m
+[0m2021.03.15 15:57:36 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher8746346484322068432/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2021.03.15 15:57:35 WARN  no build target for: /Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/src/main/scala/MongoFactory.scala[0m
+[0m2021.03.15 15:57:35 INFO  skipping build import with status 'Installed'[0m
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher8746346484322068432/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Elapsed: 19.599041 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnSuccess$1(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnSuccess$extension$1.run(Callback.scala:100)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 37330'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:37330...
+The server is listening for incoming connections at tcp://127.0.0.1:37330...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 15:57:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 15:57:36 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher11602808733437497026/bsp.socket'...
+Waiting for the bsp connection to come up...
+error: The command bsp --protocol local --socket /var/folders/n5/3xdwz6td2f9bl7yyb24tpw3r0000gn/T/bsp-launcher11602808733437497026/bsp.socket returned with an error
+> [0m[32m[D][0m Loading workspace settings from bloop.settings.json
+> [0m[32m[D][0m Elapsed: 0.9605 ms
+> [0m[31m[E][0m Boxed Error
+> [0m[36m[T][0m java.util.concurrent.ExecutionException: Boxed Error
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.resolver(Promise.scala:87)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$.scala$concurrent$impl$Promise$$resolveTry(Promise.scala:79)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:284)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.Promise.tryFailure$(Promise.scala:112)
+> [0m[36m[T][0m 	scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:187)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$$anon$1.onError(TaskRunLoop.scala:281)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:242)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onError(TaskRunLoop.scala:125)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnError$1(Callback.scala:104)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnError$extension$1.run(Callback.scala:104)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+> [0m[36m[T][0m Caused by: java.lang.NoClassDefFoundError: Could not initialize class bloop.sockets.UnixDomainSocketLibrary
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:103)
+> [0m[36m[T][0m 	bloop.sockets.UnixDomainServerSocket.<init>(UnixDomainServerSocket.java:93)
+> [0m[36m[T][0m 	bloop.io.ServerHandle$UnixLocal.<init>(ServerHandle.scala:20)
+> [0m[36m[T][0m 	bloop.bsp.BspServer$.run(BspServer.scala:250)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.runBsp(Interpreter.scala:106)
+> [0m[36m[T][0m 	bloop.engine.Interpreter$.$anonfun$execute$1(Interpreter.scala:50)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:176)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.monix$eval$Callback$Extensions$$$anonfun$asyncOnSuccess$1(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$$anonfun$asyncOnSuccess$extension$1.run(Callback.scala:100)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.monix$execution$schedulers$TrampolineExecutionContext$$localRunLoop(TrampolineExecutionContext.scala:109)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.startLoopOptimal(TrampolineExecutionContext.scala:93)
+> [0m[36m[T][0m 	monix.execution.schedulers.TrampolineExecutionContext.execute(TrampolineExecutionContext.scala:78)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute(BatchingScheduler.scala:50)
+> [0m[36m[T][0m 	monix.execution.schedulers.BatchingScheduler.execute$(BatchingScheduler.scala:47)
+> [0m[36m[T][0m 	monix.execution.schedulers.AsyncScheduler.execute(AsyncScheduler.scala:29)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined(ExecuteExtensions.scala:86)
+> [0m[36m[T][0m 	monix.execution.schedulers.ExecuteExtensions.executeTrampolined$(ExecuteExtensions.scala:85)
+> [0m[36m[T][0m 	monix.execution.Scheduler$Extensions.executeTrampolined(Scheduler.scala:187)
+> [0m[36m[T][0m 	monix.eval.Callback$Extensions$.asyncOnSuccess$extension(Callback.scala:100)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$.monix$eval$internal$TaskGatherUnordered$$maybeSignalFinal$1(TaskGatherUnordered.scala:49)
+> [0m[36m[T][0m 	monix.eval.internal.TaskGatherUnordered$$anon$1.onSuccess(TaskGatherUnordered.scala:129)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:191)
+> [0m[36m[T][0m 	monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+> [0m[36m[T][0m 	monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1426)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
+> [0m[36m[T][0m 	java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+error: Trying a tcp-based connection to the server instead...
+Opening a bsp server connection with 'bsp --protocol tcp --port 44748'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:44748...
+The server is listening for incoming connections at tcp://127.0.0.1:44748...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.03.15 15:57:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/zmanzoor/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+[0m2021.03.15 15:57:36 INFO  time: Connected to build server in 0.47s[0m
+[0m2021.03.15 15:57:36 INFO  Connected to Build server: Bloop v1.4.8[0m
+[0m2021.03.15 15:57:37 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+Mar 15, 2021 3:57:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val registry = fromRegistries(providers, DEFAULT_CODEC_REGISTRY)
+    val codeRegistry = fromRegistries(fromProviders(classOf[originPercentage]), DEFAULT_CODEC_REGISTRY)
+    val mongoClient = MongoClient()
+
+    val database = mongoClient.getDatabase("cars").withCodecRegistry(codeRegistry)
+
+    def insertCar(data: originPercentage): Unit = {
+      val collection: MongoCollection[originPercentage] = database.getCollection("myCollection")
+      collection.insertOne(data).results()
+    }
+}
+[0m2021.03.15 15:57:39 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+import org.mongodb.scala._
+import org.mongodb.scala.bson.codecs.Macros._
+import org.mongodb.scala.MongoClient.DEFAULT_CODEC_REGISTRY
+import org.bson.codecs.configuration.CodecRegistries.{fromRegistries, fromProviders}
+import org.mongodb.scala.bson.collection.immutable.Document
+import org.mongodb.scala.model.Filters._
+
+
+object MongoFactory {
+
+    case class originPercentage(carName: String, mpg:  String, horsepower: String, origin: String)
+    val providers = fromProviders(classOf[originPercentage])
+    val registry = fromRegistries(providers, DEFAULT_CODEC_REGISTRY)
+    val codeRegistry = fromRegistries(fromProviders(classOf[originPercentage]), DEFAULT_CODEC_REGISTRY)
+    val mongoClient = MongoClient()
+
+    val database = mongoClient.getDatabase("cars").withCodecRegistry(codeRegistry)
+
+    def insertCar(data: originPercentage): Unit = {
+      val collection: MongoCollection[originPercentage] = database.getCollection("myCollection")
+      collection.insertOne(data).results()
+    }
+}
+[0m2021.03.15 15:57:39 INFO  time: code lens generation in 3.81s[0m

@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[csvreader-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[csvreader-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'csvreader-build' to '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/.bloop/csvreader-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/csvreader-build.json[0m
+[debug] [csvreader-build] Classpath dependencies List()
+[debug] [csvreader-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'csvreader-build' to '/Users/zmanzoor/Desktop/Revature/Zeshawn-Project0/csvreader/project/.bloop/csvreader-build.json'
+[success] Generated .bloop/csvreader-build.json
